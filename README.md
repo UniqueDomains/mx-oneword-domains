@@ -1,22 +1,22 @@
-# Available .MX One-Word Domains (5,621,926)
+# Available .MX One-Word Domains (7,308)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C306%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C308%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C308%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .mx one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .mx one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,306-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,306 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 7,308 rows · **Live catalog:** 7,308 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/mx`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MX one-word domain ca
 
 ### Files
 
-- `mx.csv` — public CSV extract (7,306 rows)
-- `mx.json` — public JSON extract (7,306 rows)
+- `mx.csv` — public CSV extract (7,308 rows)
+- `mx.json` — public JSON extract (7,308 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,24 +65,24 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | grandprix.mx  | available | $49.99    | —             | 76             | 83     | 10     | name.com         |
-| grand.mx      | resell    | $48.98    | —             | 84             | 29     | 5      | Namecheap, Inc.  |
+| grand.mx      | resell    | $48.98    | —             | 84             | 30     | 5      | Namecheap, Inc.  |
 | early.mx      | premium   | $49.99    | $58.99        | 70             | 27     | 5      | name.com         |
 | nationwide.mx | available | $49.99    | $58.99        | 76             | 66     | 10     | name.com         |
 | help.mx       | resell    | —         | —             | 68             | 99     | 4      | Edomains LLC     |
-| adroit.mx     | premium   | $49.99    | $58.99        | 72             | 16     | 6      | name.com         |
+| adroit.mx     | premium   | $49.99    | $58.99        | 72             | 15     | 6      | name.com         |
 | bear.mx       | available | $49.99    | —             | 70             | 37     | 4      | name.com         |
 | australia.mx  | resell    | —         | —             | 66             | 99     | 9      | Key-Systems GmbH |
-| actionable.mx | premium   | $49.99    | $58.99        | 88             | 15     | 10     | name.com         |
+| actionable.mx | premium   | $49.99    | $58.99        | 88             | 14     | 10     | name.com         |
 | done.mx       | available | $49.99    | $58.99        | 80             | 36     | 4      | name.com         |
 | china.mx      | resell    | —         | —             | 84             | 98     | 5      | GoDaddy.com      |
-| acute.mx      | premium   | $49.99    | $58.99        | 112            | 12     | 5      | name.com         |
+| acute.mx      | premium   | $49.99    | $58.99        | 112            | 11     | 5      | name.com         |
 | chicken.mx    | available | $49.99    | $58.99        | 68             | 34     | 7      | name.com         |
 | cuba.mx       | resell    | —         | —             | 66             | 98     | 4      | GoDaddy.com      |
 | addictive.mx  | premium   | $49.99    | $58.99        | 90             | 10     | 9      | name.com         |
-| able.mx       | available | $49.99    | $58.99        | 80             | 33     | 4      | name.com         |
+| punk.mx       | available | $49.99    | $58.99        | 102            | 32     | 4      | name.com         |
 | indeed.mx     | resell    | —         | —             | 94             | 85     | 6      | 1api GmbH        |
 | agnostic.mx   | premium   | $49.99    | $58.99        | 84             | 10     | 8      | name.com         |
-| punk.mx       | available | $49.99    | $58.99        | 102            | 32     | 4      | name.com         |
+| ethereal.mx   | available | $49.99    | $58.99        | 88             | 32     | 8      | name.com         |
 | swift.mx      | resell    | —         | —             | 68             | 85     | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,306-row public sample | 5,621,926 live domains                           |
+| 7,308-row public sample | 7,308 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MX One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
