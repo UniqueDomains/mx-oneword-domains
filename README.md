@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .mx one-word domains from Unique D
 
 **Public extract:** 7,308 rows · **Live catalog:** 7,308 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/mx`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | chicken.mx    | available | $49.99    | $58.99        | 68             | 34     | 7      | name.com         |
 | cuba.mx       | resell    | —         | —             | 66             | 98     | 4      | GoDaddy.com      |
 | addictive.mx  | premium   | $49.99    | $58.99        | 90             | 10     | 9      | name.com         |
-| punk.mx       | available | $49.99    | $58.99        | 102            | 32     | 4      | name.com         |
+| able.mx       | available | $49.99    | $58.99        | 80             | 32     | 4      | name.com         |
 | indeed.mx     | resell    | —         | —             | 94             | 85     | 6      | 1api GmbH        |
 | agnostic.mx   | premium   | $49.99    | $58.99        | 84             | 10     | 8      | name.com         |
-| ethereal.mx   | available | $49.99    | $58.99        | 88             | 32     | 8      | name.com         |
+| punk.mx       | available | $49.99    | $58.99        | 102            | 31     | 4      | name.com         |
 | swift.mx      | resell    | —         | —             | 68             | 85     | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MX One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MX One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
