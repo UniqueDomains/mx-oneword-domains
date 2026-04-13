@@ -66,7 +66,7 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | grandprix.mx  | available | $49.99    | —             | 76             | 83     | 10     | name.com         |
 | grand.mx      | resell    | $48.98    | —             | 84             | 30     | 5      | Namecheap, Inc.  |
-| early.mx      | premium   | $49.99    | $58.99        | 70             | 27     | 5      | name.com         |
+| early.mx      | premium   | $49.99    | $58.99        | 70             | 26     | 5      | name.com         |
 | nationwide.mx | available | $49.99    | $58.99        | 76             | 66     | 10     | name.com         |
 | help.mx       | resell    | —         | —             | 68             | 99     | 4      | Edomains LLC     |
 | adroit.mx     | premium   | $49.99    | $58.99        | 72             | 15     | 6      | name.com         |
