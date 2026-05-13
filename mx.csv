@@ -600,6 +600,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a026593-6fd8-43ec-970a-049243fc43da,rained.mx,available,39.99,43.99,50,4,6,namesilo,,
 3a060d86-dc5d-4bc0-85ea-95b15ae420aa,actions.mx,available,49.99,,54,15,7,name.com,,
 3a51b0a2-dff6-4f3e-b053-f66eb086ccda,opinions.mx,available,49.99,,62,11,8,name.com,,
+3a624ff8-fd26-40b8-8f99-69b6cb15abd2,NYC.mx,available,39.99,43.99,82,42,3,namesilo,,
 3a84d764-43ad-4a17-883b-d45cb3a99b76,commonstock.mx,available,49.99,,68,3,12,name.com,,
 3a960613-0d49-43f7-8836-420658186456,newsstation.mx,available,49.99,,52,3,12,name.com,,
 3aa26da9-a3f5-4c8d-ad5b-bbf09370f79a,musts.mx,available,39.99,43.99,57,2,5,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61e96a81-4a57-42fd-9c24-dede7d2fad71,getstuckinto.mx,available,49.99,,64,0,14,name.com,,
 61ee6df7-e37b-426a-9c54-9aec27217c63,precautions.mx,available,49.99,,48,2,11,name.com,,
 61fb8ff6-6adc-4e33-b7a8-f5dc4c991e68,grandmothers.mx,available,49.99,,68,3,12,name.com,,
-621e08ec-ec14-458f-808d-dd2cc3e4610c,turninto.mx,available,49.99,,86,2,9,name.com,,
