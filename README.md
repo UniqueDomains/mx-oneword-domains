@@ -1,10 +1,10 @@
-# Available .MX One-Word Domains (9,892)
+# Available .MX One-Word Domains (9,893)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C892%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C893%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mx one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,892 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,893 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,892 domains · **Median ask:** $48.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,893 domains · **Median ask:** $48.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/mx`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| IsleofMan.mx     | available | $58.98    | —             | 62             | 91     | 11     | namecheap   |
-| proper.mx        | resell    | —         | —             | 76             | 35     | 6      | GoDaddy.com |
-| keepthechange.mx | available | $49.99    | —             | 46             | 59     | 15     | name.com    |
-| quotes.mx        | resell    | —         | —             | 58             | 29     | 6      | Porkbun LLC |
-| NYC.mx           | available | $39.99    | $43.99        | 82             | 42     | 3      | namesilo    |
-| doctors.mx       | resell    | —         | —             | 56             | 26     | 7      | GoDaddy.com |
-| gods.mx          | available | $49.99    | —             | 72             | 27     | 4      | name.com    |
-| shops.mx         | resell    | —         | —             | 64             | 24     | 5      | GoDaddy.com |
-| bees.mx          | available | $49.99    | —             | 54             | 27     | 4      | name.com    |
-| icons.mx         | resell    | —         | —             | 68             | 19     | 5      | GoDaddy.com |
-| Keith.mx         | available | $58.98    | —             | 66             | 25     | 5      | namecheap   |
-| questions.mx     | resell    | —         | —             | 78             | 17     | 9      | GoDaddy.com |
-| whats.mx         | available | $39.99    | $43.99        | 58             | 24     | 5      | namesilo    |
-| meals.mx         | resell    | —         | —             | 68             | 15     | 5      | Porkbun LLC |
-| veterans.mx      | available | $49.99    | —             | 56             | 23     | 8      | name.com    |
-| Christians.mx    | resell    | —         | —             | 62             | 15     | 10     | GoDaddy.com |
-| teachers.mx      | available | $49.99    | —             | 56             | 22     | 8      | name.com    |
-| machines.mx      | available | $49.99    | —             | 56             | 22     | 8      | name.com    |
-| unicorns.mx      | available | $49.99    | —             | 73             | 21     | 8      | name.com    |
-| faces.mx         | available | $49.99    | —             | 60             | 21     | 5      | name.com    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| IsleofMan.mx     | available | $58.98    | —             | 62             | 91     | 11     | namecheap    |
+| las.mx           | resell    | —         | —             | 48             | 97     | 3      | Registrar.eu |
+| keepthechange.mx | available | $49.99    | —             | 46             | 59     | 15     | name.com     |
+| proper.mx        | resell    | —         | —             | 76             | 35     | 6      | GoDaddy.com  |
+| NYC.mx           | available | $39.99    | $43.99        | 82             | 42     | 3      | namesilo     |
+| quotes.mx        | resell    | —         | —             | 58             | 29     | 6      | Porkbun LLC  |
+| gods.mx          | available | $49.99    | —             | 72             | 27     | 4      | name.com     |
+| doctors.mx       | resell    | —         | —             | 56             | 26     | 7      | GoDaddy.com  |
+| bees.mx          | available | $49.99    | —             | 54             | 27     | 4      | name.com     |
+| shops.mx         | resell    | —         | —             | 64             | 24     | 5      | GoDaddy.com  |
+| Keith.mx         | available | $58.98    | —             | 66             | 25     | 5      | namecheap    |
+| icons.mx         | resell    | —         | —             | 68             | 19     | 5      | GoDaddy.com  |
+| whats.mx         | available | $39.99    | $43.99        | 58             | 24     | 5      | namesilo     |
+| questions.mx     | resell    | —         | —             | 78             | 17     | 9      | GoDaddy.com  |
+| veterans.mx      | available | $49.99    | —             | 56             | 23     | 8      | name.com     |
+| meals.mx         | resell    | —         | —             | 68             | 15     | 5      | Porkbun LLC  |
+| teachers.mx      | available | $49.99    | —             | 56             | 22     | 8      | name.com     |
+| Christians.mx    | resell    | —         | —             | 62             | 15     | 10     | GoDaddy.com  |
+| machines.mx      | available | $49.99    | —             | 56             | 22     | 8      | name.com     |
+| unicorns.mx      | available | $49.99    | —             | 73             | 21     | 8      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,892 live domains                         |
+| 1,000-row public sample | 9,893 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MX One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MX One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
