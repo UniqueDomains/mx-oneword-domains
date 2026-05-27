@@ -70,7 +70,7 @@ print(df.head())
 | proper.mx        | resell    | —         | —             | 76             | 35     | 6      | GoDaddy.com  |
 | NYC.mx           | available | $39.99    | $43.99        | 82             | 42     | 3      | namesilo     |
 | quotes.mx        | resell    | —         | —             | 58             | 29     | 6      | Porkbun LLC  |
-| gods.mx          | available | $49.99    | —             | 72             | 27     | 4      | name.com     |
+| gods.mx          | available | $49.99    | —             | 72             | 29     | 4      | name.com     |
 | doctors.mx       | resell    | —         | —             | 56             | 26     | 7      | GoDaddy.com  |
 | bees.mx          | available | $49.99    | —             | 54             | 27     | 4      | name.com     |
 | shops.mx         | resell    | —         | —             | 64             | 24     | 5      | GoDaddy.com  |
