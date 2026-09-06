@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mx one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,164 domains · **Median ask:** $33.71 · **High-demand under $2,500:** 35
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/mx`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,10 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
+| christmas.mx  | available | $39.99    | $43.99        | high           | low    | 9      | namesilo                            |
+| correct.mx    | available | $49.99    | $58.99        | high           | low    | 7      | name.com                            |
+| pure.mx       | resell    | —         | —             | high           | low    | 4      | AKKY ONLINE SOLUTIONS, S.A. DE C.V. |
+| fancy.mx      | available | $49.99    | $58.99        | high           | low    | 5      | name.com                            |
 | cry.mx        | available | $49.99    | —             | high           | low    | 3      | name.com                            |
 | ace.mx        | resell    | —         | —             | high           | medium | 3      | AKKY ONLINE SOLUTIONS, S.A. DE C.V. |
 | agnostic.mx   | premium   | $49.99    | $58.99        | high           | low    | 8      | name.com                            |
@@ -80,10 +84,6 @@ print(df.head())
 | jay.mx        | resell    | —         | —             | medium         | low    | 3      | Namecheap, Inc.                     |
 | reflection.mx | premium   | $39.99    | $43.99        | high           | low    | 10     | namesilo                            |
 | lxx.mx        | available | $24.98    | $58.98        | low            | low    | 3      | namecheap                           |
-| law.mx        | resell    | —         | —             | high           | medium | 3      | Tool Domains OOD                    |
-| sob.mx        | available | $22.98    | $58.98        | low            | low    | 3      | namecheap                           |
-| oil.mx        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com                         |
-| able.mx       | available | $49.99    | $58.99        | high           | low    | 4      | name.com                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MX One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MX One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
