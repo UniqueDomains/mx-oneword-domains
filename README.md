@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mx one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,383 domains · **Median ask:** $32.39 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/mx`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| correct.mx    | available | $49.99    | $58.99        | high           | low    | 7      | name.com                            |
-| cry.mx        | available | $49.99    | —             | high           | low    | 3      | name.com                            |
-| ace.mx        | resell    | —         | —             | medium         | low    | 3      | AKKY ONLINE SOLUTIONS, S.A. DE C.V. |
-| anywhere.mx   | premium   | $39.99    | $43.99        | high           | low    | 8      | namesilo                            |
-| cxv.mx        | available | $24.98    | $58.98        | low            | low    | 3      | namecheap                           |
-| ass.mx        | resell    | —         | —             | low            | low    | 3      | Namecheap, Inc.                     |
-| reflection.mx | premium   | $39.99    | $43.99        | high           | low    | 10     | namesilo                            |
-| feb.mx        | available | $39.99    | $43.99        | high           | low    | 3      | namesilo                            |
-| for.mx        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com                         |
-| hum.mx        | available | $39.99    | $43.99        | high           | low    | 3      | namesilo                            |
-| his.mx        | resell    | —         | —             | high           | low    | 3      | AKKY ONLINE SOLUTIONS, S.A. DE C.V. |
-| ill.mx        | available | $39.99    | $43.99        | medium         | low    | 3      | namesilo                            |
-| jay.mx        | resell    | —         | —             | medium         | low    | 3      | Namecheap, Inc.                     |
-| lxx.mx        | available | $24.98    | $58.98        | low            | low    | 3      | namecheap                           |
-| law.mx        | resell    | —         | —             | high           | medium | 3      | Tool Domains OOD                    |
-| sob.mx        | available | $22.98    | $58.98        | low            | low    | 3      | namecheap                           |
-| oil.mx        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com                         |
-| able.mx       | available | $39.99    | $43.99        | medium         | low    | 4      | namesilo                            |
-| old.mx        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com                         |
-| babe.mx       | available | $39.99    | $43.99        | high           | low    | 4      | namesilo                            |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
+| support.mx     | resell    | —         | —             | high           | medium | 7      | AKKY ONLINE SOLUTIONS, S.A. DE C.V. |
+| energy.mx      | resell    | —         | —             | high           | medium | 6      | Registrar.eu                        |
+| nature.mx      | resell    | —         | —             | high           | low    | 6      | GoDaddy.com                         |
+| breakfast.mx   | available | $39.99    | $43.99        | high           | low    | 9      | namesilo                            |
+| drink.mx       | resell    | —         | —             | high           | low    | 5      | Namecheap, Inc.                     |
+| nutrient.mx    | available | $26.98    | $58.98        | high           | low    | 8      | namecheap                           |
+| influential.mx | available | $26.98    | $58.98        | high           | low    | 11     | namecheap                           |
+| farmer.mx      | available | $26.98    | $58.98        | high           | low    | 6      | namecheap                           |
+| cent.mx        | available | $26.98    | $58.98        | high           | low    | 4      | namecheap                           |
+| jasmine.mx     | available | $26.98    | $58.98        | high           | low    | 7      | namecheap                           |
+| mouth.mx       | available | $26.98    | $58.98        | high           | low    | 5      | namecheap                           |
+| jumping.mx     | available | $26.98    | $58.98        | high           | low    | 7      | namecheap                           |
+| ann.mx         | available | $39.99    | $43.99        | high           | low    | 3      | namesilo                            |
+| ass.mx         | resell    | —         | —             | high           | low    | 3      | Namecheap, Inc.                     |
+| anywhere.mx    | premium   | $39.99    | $43.99        | high           | low    | 8      | namesilo                            |
+| cry.mx         | available | $49.99    | —             | high           | low    | 3      | name.com                            |
+| ava.mx         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com                         |
+| yesterday.mx   | premium   | $39.99    | $43.99        | high           | low    | 9      | namesilo                            |
+| cxl.mx         | available | $24.98    | $58.98        | high           | low    | 3      | namecheap                           |
+| day.mx         | resell    | —         | —             | high           | low    | 3      | 1api GmbH                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MX One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MX One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
