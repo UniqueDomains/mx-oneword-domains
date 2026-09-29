@@ -2,10 +2,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 16fff201-fecf-4a5b-82e8-ebfbe89fc1ca,screechy.mx,available,26.98,58.98,medium,low,8,namecheap,,,10/09/2026 00:01
 3314b06d-b7ae-4f23-be67-5a37f4292b77,ageism.mx,available,26.98,58.98,medium,low,6,namecheap,,,17/09/2026 16:54
 0c056109-5f10-413a-86dd-24ba54ec1d72,deceased.mx,available,39.99,43.99,medium,low,8,namesilo,,,22/09/2026 10:44
-8ff23d05-2222-4c09-b92a-eb07580878d8,cooperate.mx,available,39.99,43.99,high,low,9,namesilo,,,27/09/2026 16:33
+8ff23d05-2222-4c09-b92a-eb07580878d8,cooperate.mx,available,26.98,58.98,high,low,9,namecheap,,,28/09/2026 17:32
 fb85ac82-de74-48c6-9993-b74eda5b8172,inevitably.mx,available,26.98,58.98,medium,low,10,namecheap,,,15/09/2026 08:09
+50d7004d-1b83-452f-a3bc-b989ba0dee28,obstruction.mx,available,30.7,30.7,medium,low,11,cloudflare,,,28/09/2026 17:02
 431d78c2-9e0e-4958-a537-a60026a62af2,appleton.mx,available,26.98,58.98,high,low,8,namecheap,,,19/09/2026 21:41
+cb9880ba-831e-4163-b3b1-51350ebd568b,forcing.mx,available,36.64,42.52,medium,low,7,dynadot,,,28/09/2026 12:56
 2274e3b9-ae5f-44ee-bf4e-b58627ffd521,springlike.mx,available,26.98,58.98,medium,low,10,namecheap,,,10/09/2026 16:53
+1f0aa020-f7f8-4fcb-8dde-76dae2080a95,yeats.mx,available,30.7,30.7,medium,low,5,cloudflare,,,28/09/2026 15:32
 25fc86ec-d706-4fbe-a300-41628eff8259,threatening.mx,available,39.99,43.99,medium,low,11,namesilo,,,
 8be4ffac-0814-4e65-acc2-15f1ce82a71b,drawback.mx,available,39.99,43.99,medium,low,8,namesilo,,,24/09/2026 23:54
 a490ffcb-6d94-4b62-8d92-8901c1b865e2,unionized.mx,available,41.98,58.98,medium,low,9,namecheap,,,03/09/2026 19:29
@@ -34,16 +37,20 @@ fb110113-9c0e-456b-a48c-45be3d6ed552,forster.mx,available,26.98,58.98,medium,low
 e2e1681c-0c00-498b-946d-f5403d70dcd7,capped.mx,available,22.98,58.98,medium,low,6,namecheap,,,11/08/2026 18:02
 580fade0-5caa-4ce1-b5c3-62d80968fe96,awestruck.mx,available,22.98,58.98,medium,low,9,namecheap,,,08/08/2026 01:00
 6b46550a-f2c4-444e-8b69-cf3e3f5a1f0e,masterless.mx,available,26.98,58.98,medium,low,10,namecheap,,,24/08/2026 09:55
+1f243c1d-90ef-4d61-8220-142f20e087b2,shaun.mx,available,39.99,43.99,medium,low,5,namesilo,,,29/09/2026 03:45
 7961850d-dc71-43e1-bc26-adff25c4d8c4,arum.mx,available,22.98,58.98,medium,low,4,namecheap,,,06/08/2026 20:20
 e28222c0-8dcf-4b44-922c-5a67d427c218,spindly.mx,available,26.98,58.98,high,medium,7,namecheap,,,10/09/2026 15:39
+322edfae-b46f-4ec9-a93f-f623e62b5d81,pritchard.mx,available,36.64,42.52,medium,low,9,dynadot,,,28/09/2026 12:14
 9d76c0c4-72b5-420e-a9d5-bca239c7868d,stieglitz.mx,available,39.99,43.99,medium,low,9,namesilo,,,18/09/2026 06:45
 bad3c0ca-ea22-4c32-9ec3-67ca9d9abbeb,purr.mx,available,26.98,58.98,high,low,4,namecheap,,,23/09/2026 20:53
 57f1ca76-1680-46a5-ab50-93cb4800feff,seth.mx,available,39.99,43.99,high,low,4,namesilo,,,25/09/2026 10:39
 64ecc25f-9ddd-4836-b608-9819bc392659,alkene.mx,available,39.99,43.99,medium,low,6,namesilo,,,18/09/2026 08:28
 7b9afb95-7691-4329-839f-611206d6f57c,slideshow.mx,available,39.99,43.99,high,low,10,namesilo,,,
+70291542-0093-4989-906c-0bb331c02ef4,lichens.mx,available,39.99,43.99,low,low,7,namesilo,,,29/09/2026 05:48
+068250fc-c9a2-41e3-b9de-19b3234155b4,massachusetts.mx,available,39.99,43.99,medium,low,13,namesilo,,,28/09/2026 11:48
 81bad9f4-705e-4ccc-8938-d2b4d68c2a7f,pulmonary.mx,available,26.98,58.98,high,low,9,namecheap,,,09/09/2026 05:54
 199c58a7-35d5-41d5-baa4-015f0c4b7401,estimators.mx,available,39.99,43.99,medium,low,10,namesilo,,,20/09/2026 23:34
-40bd5954-8038-445e-a3a8-97609da3743c,hour.mx,available,39.99,43.99,high,low,4,namesilo,,,
+40bd5954-8038-445e-a3a8-97609da3743c,hour.mx,available,39.99,43.99,high,low,4,namesilo,,,28/09/2026 16:53
 1e1ae6c4-84c4-4180-896f-3ed51f4b85f4,tenfold.mx,available,22.98,58.98,high,low,7,namecheap,,,14/08/2026 01:44
 fcc20021-a546-4bbe-9ed7-45c4c6e4f7df,unlikeable.mx,available,26.98,58.98,medium,low,10,namecheap,,,12/09/2026 00:56
 92f91220-3997-4bfc-923d-55c4de8cc260,suv.mx,available,39.99,43.99,high,low,3,namesilo,,,
@@ -66,10 +73,11 @@ d4d49231-e22f-48d4-9cad-c1aa721bca1f,autolytic.mx,available,22.98,58.98,medium,l
 93c2b865-35b7-4869-bad1-123a6e108e19,drag.mx,available,39.99,43.99,high,low,4,namesilo,,,25/09/2026 22:05
 180e4803-6235-4d30-89a6-b4720be7d352,poetical.mx,available,26.98,58.98,high,low,8,namecheap,,,08/09/2026 22:34
 83d93560-8632-45b5-ba99-43d773787305,amusement.mx,available,26.98,58.98,high,low,9,namecheap,,,26/09/2026 00:23
+e042c7b9-4f2a-4dac-84df-5c632dac6d89,corpses.mx,available,30.7,30.7,low,low,7,cloudflare,,,28/09/2026 23:15
 ae4b5a39-e0cb-4aca-850c-dd310e0de632,dryness.mx,available,39.99,43.99,high,low,7,namesilo,,,24/09/2026 22:51
 bfd72aa7-a0f2-4d24-b844-95bea36ec6a9,rutland.mx,available,39.99,43.99,medium,low,7,namesilo,,,27/09/2026 05:16
 1c63a47b-deb9-42e0-93cc-59cd85949357,pentatonic.mx,available,26.98,58.98,medium,low,10,namecheap,,,08/09/2026 15:05
-0b71bad4-d27c-4aad-bc54-d22b570abb0e,accused.mx,available,39.99,43.99,high,low,7,namesilo,,,
+0b71bad4-d27c-4aad-bc54-d22b570abb0e,accused.mx,available,39.99,43.99,medium,low,7,namesilo,,,28/09/2026 17:31
 34dbd4b1-42c6-4bf7-8718-a4da8b1350f1,eastward.mx,available,22.98,58.98,high,low,8,namecheap,,,14/08/2026 22:48
 04b01052-cfca-477f-9c2a-6349302d77be,crooner.mx,available,26.98,58.98,medium,low,7,namecheap,,,21/09/2026 22:42
 16ace355-c495-42bf-93c7-bcd714af3fdf,filiform.mx,available,22.98,58.98,medium,low,8,namecheap,,,18/08/2026 04:04
@@ -81,7 +89,7 @@ aec64f2a-bb73-4c99-84be-ea837daed286,attacking.mx,available,26.98,58.98,medium,l
 e55ecdfd-abb2-4ac4-8bcd-cf55ecf0ec23,brumal.mx,available,22.98,58.98,medium,low,6,namecheap,,,11/08/2026 06:36
 8758a70a-ff5a-4f91-923b-8acc7663c5ab,prn.mx,available,26.98,58.98,medium,low,3,namecheap,,,13/09/2026 21:26
 3fec24e9-7543-4ae7-844c-952f7b789ab9,bobtail.mx,available,22.98,58.98,high,low,7,namecheap,,,10/08/2026 16:39
-5cf2fc1a-e30c-41c0-94df-0615a70043cf,unlike.mx,available,39.99,43.99,high,low,6,namesilo,,,
+5cf2fc1a-e30c-41c0-94df-0615a70043cf,unlike.mx,available,39.99,43.99,high,low,6,namesilo,,,28/09/2026 09:47
 3fccc579-103b-47bb-b60f-abfa0ce6a26d,few.mx,available,39.99,43.99,high,low,3,namesilo,,,24/09/2026 17:38
 b17627ac-2896-488f-a048-4b5552e40da2,inherent.mx,available,39.99,43.99,high,low,8,namesilo,,,23/09/2026 10:30
 3d3be2c5-c011-47a3-9074-603a810e4fbe,bail.mx,available,26.98,58.98,high,low,4,namecheap,,,21/09/2026 18:59
@@ -96,6 +104,8 @@ e635eab9-6bd6-48ff-9fee-5a6d39f31877,scriabin.mx,available,39.99,43.99,high,low,
 c35930ef-9e0c-45bb-bb2b-4db57e149c6f,outclassed.mx,available,41.98,58.98,medium,low,10,namecheap,,,04/09/2026 19:12
 70eec1af-8477-4885-a69e-f002aabd3c28,pittsburgh.mx,available,39.99,43.99,high,low,10,namesilo,,,
 f765c305-be63-46f3-a584-4e2a896af4c3,purblind.mx,available,22.98,58.98,medium,low,8,namecheap,,,14/08/2026 07:58
+b5775938-8e86-4d4c-98a5-418ec2ae8ae0,explosions.mx,available,36.64,42.52,low,low,10,dynadot,,,28/09/2026 23:40
+8410f33f-078a-4ad7-a299-42668f9c0bf2,foucault.mx,available,36.64,42.52,medium,low,8,dynadot,,,28/09/2026 19:15
 2fb8854b-53ad-4644-9b31-34688f7b86a4,alone.mx,available,26.98,58.98,high,low,5,namecheap,,,22/09/2026 01:57
 6e4ff7c0-a0e0-46b8-811d-8330fa2feb12,winsomely.mx,available,26.98,58.98,medium,low,9,namecheap,,,14/09/2026 15:43
 3312b80c-e26a-4d6a-a984-6f31407e9e59,slick.mx,available,39.99,43.99,high,low,5,namesilo,,,24/09/2026 02:25
@@ -119,6 +129,7 @@ a0ec6f31-a9c9-4fc0-8efa-bfb38d280037,renowned.mx,available,22.98,58.98,high,low,
 b9f6d1c3-e681-45e0-81c8-3dc573abedba,occitan.mx,available,26.98,58.98,medium,low,7,namecheap,,,09/09/2026 04:30
 11bde4d3-d493-43c0-8c31-a524840ee437,vegetable.mx,available,39.99,43.99,high,low,9,namesilo,,,
 52a8d5ec-681c-44ca-81f2-9b36c99d7910,soupy.mx,available,22.98,58.98,medium,low,5,namecheap,,,09/08/2026 01:20
+35521bb9-07ae-45ff-9014-ea2108fff3aa,witnessed.mx,available,39.99,43.99,low,low,9,namesilo,,,28/09/2026 08:47
 ba4c0667-f5e6-4edc-9d67-d6104701a27f,ariose.mx,available,22.98,58.98,medium,low,6,namecheap,,,06/08/2026 19:19
 df136dee-ee22-4eda-a96b-41c06ff1f69c,wiccan.mx,available,26.98,58.98,medium,low,6,namecheap,,,13/09/2026 11:46
 5e08dfad-6cd5-47c2-b6e9-876a97cca869,lossy.mx,available,26.98,58.98,medium,low,5,namecheap,,,24/08/2026 09:58
@@ -144,7 +155,9 @@ f58f56eb-a69d-4d2b-b007-39d9d540611b,injured.mx,available,26.98,58.98,high,low,7
 64c14b8f-e2bc-4014-9e9b-0077545ff326,nubile.mx,available,26.98,58.98,medium,low,6,namecheap,,,24/08/2026 16:30
 547aaad8-ee54-4f57-b124-ad003bfacff9,peeved.mx,available,22.98,58.98,medium,low,6,namecheap,,,
 8ca10ea5-a48b-419a-9a3e-ac9708307ba0,abidjan.mx,available,39.99,43.99,medium,low,7,namesilo,,,16/09/2026 15:38
+3290a2da-a4e4-4a69-83f3-4775c956fc53,pablo.mx,resell,,,high,low,5,,,,28/09/2026 11:58
 a7fb2cfd-eadf-4240-a996-3d0f65da9e33,lipstick.mx,available,39.99,43.99,high,low,8,namesilo,,,28/09/2026 02:36
+f76f823c-620b-4e75-b92c-bd6f4aff6ce8,scouting.mx,available,36.64,42.52,high,low,8,dynadot,,,29/09/2026 00:51
 5e93724f-b49e-43d0-b8e7-c71fc6a0130b,workout.mx,available,,,high,low,7,,,,
 6dd70beb-af75-4f2e-b506-a2322d62c2c8,credulous.mx,available,22.98,58.98,medium,low,9,namecheap,,,13/08/2026 05:56
 3e643284-95c2-44ed-b733-6734cd2e338c,merrily.mx,available,26.98,58.98,high,low,7,namecheap,,,14/09/2026 00:25
@@ -156,6 +169,7 @@ f8d152b7-cc57-4b24-931b-27b0da8438ab,deciding.mx,available,22.98,58.98,high,low,
 6cfefaac-11b2-401a-a76c-a3cf48fa69d0,stepping.mx,available,39.99,43.99,high,low,8,namesilo,,,16/09/2026 15:33
 d395d3a2-2197-43b6-b14c-1846ddfbd451,civilians.mx,available,30.7,30.7,medium,low,9,cloudflare,,,28/09/2026 05:06
 af840468-753c-444f-9e41-b249458bfde3,starred.mx,available,22.98,58.98,medium,low,7,namecheap,,,07/08/2026 08:52
+c0e25c0d-16de-4dfd-8c4e-a225d61bcad1,violin.mx,available,36.64,42.52,high,low,6,dynadot,,,28/09/2026 09:46
 9c4fcf0e-c7ca-494e-b797-faaeb15e8660,drunk.mx,available,22.98,58.98,high,low,5,namecheap,,,14/08/2026 20:17
 264a0092-b0a5-450b-b724-0786c8a91c62,carsick.mx,available,24.98,58.98,medium,low,7,namecheap,,,
 2ef2b9dc-3a80-49b3-8c11-6487e47e3fd5,physical.mx,available,26.98,58.98,high,low,8,namecheap,,,08/09/2026 15:48
@@ -189,18 +203,21 @@ eb3ab2bf-f257-405d-865f-1f21404e4416,unlogical.mx,available,26.98,58.98,low,low,
 2819cdae-cd87-4fa1-9975-2609cd0b367a,gliding.mx,available,26.98,58.98,high,medium,7,namecheap,,,10/09/2026 13:01
 99b0bdc5-e184-4ed2-be3d-9991d1e7bd39,dominated.mx,available,39.99,43.99,medium,low,9,namesilo,,,24/09/2026 11:35
 422c4376-6bde-428b-b26d-fff6e4516b00,serial.mx,available,26.98,58.98,high,low,6,namecheap,,,21/08/2026 23:54
+c9b89c16-4ded-4276-aaf4-25daa904c3af,sights.mx,available,39.99,43.99,high,low,6,namesilo,,,28/09/2026 10:56
 734a0422-2723-4294-a9ab-bf806af82ca0,ironclad.mx,available,22.98,58.98,high,low,8,namecheap,,,11/08/2026 02:30
 2b4c457b-b1c5-4737-bd32-04429c59e3de,credentials.mx,available,30.7,30.7,high,low,11,cloudflare,,,28/09/2026 08:17
 42dc6a86-1bf0-4f53-98a5-7fd259a26135,scrimpy.mx,available,26.98,58.98,low,low,7,namecheap,,,24/08/2026 18:10
 2b67f1b1-7337-4335-9905-2cffbb64dde8,aphesis.mx,available,39.99,43.99,medium,low,7,namesilo,,,19/09/2026 16:55
 84695ed9-3595-4e77-9593-29525c3da650,stubborn.mx,available,39.99,43.99,high,low,8,namesilo,,,25/09/2026 23:51
-93b0d49b-ad6e-4305-a795-23cf4b641254,blockade.mx,available,39.99,43.99,medium,low,8,namesilo,,,
+93b0d49b-ad6e-4305-a795-23cf4b641254,blockade.mx,available,39.99,43.99,medium,low,8,namesilo,,,29/09/2026 01:13
 f213a0f4-5ce1-4c62-950f-584b488a4fc6,shagged.mx,available,26.98,58.98,medium,low,7,namecheap,,,10/09/2026 05:30
 c8b4df75-5574-44fa-9642-0682ddd5a055,estimating.mx,available,39.99,43.99,medium,low,10,namesilo,,,
 9574a955-aa11-4d2d-b004-ad9443586232,restful.mx,available,26.98,58.98,high,low,7,namecheap,,,09/09/2026 13:26
-a9c56e4f-f162-4a0a-8b46-beb92157ed73,bead.mx,available,39.99,43.99,high,low,4,namesilo,,,
+a9c56e4f-f162-4a0a-8b46-beb92157ed73,bead.mx,available,39.99,43.99,high,low,4,namesilo,,,29/09/2026 01:38
 8aacd00f-0681-439c-963d-077176aa1713,flaunt.mx,available,26.98,58.98,high,low,6,namecheap,,,11/09/2026 05:17
 2ea76699-1003-47b8-94b4-dc97fc0b1eea,unattached.mx,available,22.98,58.98,medium,low,10,namecheap,,,18/08/2026 14:48
+ea88c7ad-f400-434e-9f7b-fb2acc994064,fleetwood.mx,available,30.7,30.7,medium,low,9,cloudflare,,,28/09/2026 16:46
+ba62f234-621e-4ebd-b979-5276e318ea94,longfellow.mx,available,35.57,41.23,medium,low,10,porkbun,,,29/09/2026 01:16
 d896c3d8-3dc8-47c7-bfd9-af0cb555fefc,godhead.mx,available,24.98,58.98,medium,low,7,namecheap,,,
 13f095f6-0ed3-4ab6-96a0-4683e126d83e,stumpy.mx,available,26.98,58.98,medium,low,6,namecheap,,,24/08/2026 10:40
 5ee4a702-5871-41d0-9d87-bdd49624d795,copesetic.mx,available,22.98,58.98,medium,low,9,namecheap,,,13/08/2026 00:22
@@ -215,6 +232,7 @@ f330a7b4-0190-4cca-94dd-ac2246f6a204,moderation.mx,available,39.99,43.99,high,lo
 7c2b9c2c-e0e1-402a-855c-dc5a063a2f7a,albania.mx,available,39.99,43.99,high,high,7,namesilo,,,18/09/2026 02:23
 157a822e-4003-4b94-b5f1-817698877bce,anhydrous.mx,available,24.98,58.98,medium,low,9,namecheap,,,
 d79da516-603b-4fcc-815b-0a33e7985db6,banging.mx,available,22.98,58.98,high,low,7,namecheap,,,08/08/2026 13:03
+a51d09b6-210c-4e06-ad0c-1157c7486a06,mahmud.mx,available,30.7,30.7,medium,low,6,cloudflare,,,28/09/2026 22:18
 0691ca8c-8d3e-4fa6-bac3-bb16f16a5091,tutelar.mx,available,22.98,58.98,medium,low,7,namecheap,,,13/08/2026 12:23
 e86d8653-d794-406c-8507-a9c0914385d3,crossed.mx,available,22.98,58.98,high,low,7,namecheap,,,13/08/2026 08:18
 f905bccc-5b51-4ccc-9e32-d03e7b3f0ba0,kechua.mx,available,26.98,58.98,medium,low,6,namecheap,,,22/08/2026 15:23
@@ -238,6 +256,7 @@ e8957a82-a87d-484e-b21d-d61baae87f2f,tippy.mx,available,22.98,58.98,medium,low,5
 7da098dd-72c6-4246-9493-e687560712b1,dinkey.mx,available,22.98,58.98,medium,low,6,namecheap,,,14/08/2026 08:16
 429037a3-6375-474f-baf3-37a959685042,downmarket.mx,available,22.98,58.98,high,low,10,namecheap,,,14/08/2026 17:48
 b4e93c92-b5cf-4a9e-a8f9-c1d045876378,vicarious.mx,available,26.98,58.98,medium,low,9,namecheap,,,13/09/2026 05:15
+b418cae9-69ba-4146-b57b-e306b5f4afc3,hartford.mx,available,26.98,58.98,high,low,8,namecheap,,,28/09/2026 18:33
 f10e937e-1f2b-4a13-9d30-c30becb3534e,shepard.mx,available,39.99,43.99,high,low,7,namesilo,,,18/09/2026 01:40
 82b96546-8891-4373-b27a-8238a6b14eee,cephalopod.mx,available,22.98,58.98,medium,low,10,namecheap,,,12/08/2026 00:21
 4ea1eace-f371-4655-8c6c-97c763c86786,moorish.mx,available,26.98,58.98,medium,low,7,namecheap,,,25/08/2026 05:59
@@ -246,9 +265,11 @@ c1edb250-b27b-4185-b5fe-353458869eeb,cloze.mx,available,22.98,58.98,medium,low,5
 16c35cd8-ebf6-40bd-91c9-375a9ca4136b,consumption.mx,available,39.99,43.99,high,low,11,namesilo,,,
 1fa4af3e-f35d-43e8-b584-c0a6adcb1574,reptile.mx,available,26.98,58.98,high,low,7,namecheap,,,09/09/2026 14:41
 47c24858-c201-47c5-8790-0c62f5faf3fc,beguiling.mx,available,39.99,43.99,high,low,9,namesilo,,,22/09/2026 01:38
+a20ae12b-6495-4e62-b7ab-2f77ff7028e9,fern.mx,available,26.98,58.98,high,low,4,namecheap,,,29/09/2026 00:53
 1c0a865a-4273-4c2b-8691-10f87113168a,gratefully.mx,available,26.98,58.98,medium,low,10,namecheap,,,13/09/2026 20:28
 f68397de-b15d-4652-b84d-f1b4ce04f6ca,zygoma.mx,available,39.99,43.99,medium,low,6,namesilo,,,20/09/2026 03:03
 1c69fb14-dd51-4015-baeb-5281622de337,alarmingly.mx,available,26.98,58.98,low,low,10,namecheap,,,13/09/2026 18:33
+d8071028-de6f-4efd-9fc6-050a92b25c58,tijuana.mx,resell,,,high,low,7,,,,29/09/2026 02:18
 769e0f2f-f82b-4204-bc30-d51f91a299fc,allograft.mx,available,39.99,43.99,medium,low,9,namesilo,,,18/09/2026 11:54
 4218ea74-13ab-49be-ab57-9daf9b84d4dc,rebecca.mx,available,39.99,43.99,high,low,7,namesilo,,,25/09/2026 10:16
 f606cbb5-d6a5-408c-82a2-a75b7e142f28,threadbare.mx,available,22.98,58.98,medium,low,10,namecheap,,,08/08/2026 11:10
@@ -258,9 +279,12 @@ ce87c7a4-6e42-4c13-bbcf-ed8cd575ffde,earthman.mx,available,26.98,58.98,medium,lo
 61d9b43c-1627-4dd7-8a00-055dd5c4b213,hateful.mx,available,26.98,58.98,medium,low,7,namecheap,,,21/08/2026 01:18
 5b9aee32-5cc8-4c80-9651-4dba7fefb1cb,splendidly.mx,available,26.98,58.98,medium,low,10,namecheap,,,14/09/2026 16:44
 7a0049cb-5e60-4036-b8f7-103c74c27a55,unseeing.mx,available,26.98,58.98,high,medium,8,namecheap,,,10/09/2026 07:57
+e140ebb4-9dd6-42bc-9ddc-bedc66c965ed,carriers.mx,available,26.98,58.98,medium,low,8,namecheap,,,29/09/2026 05:47
+0f8a955a-1b94-4225-a0e1-6bf35b8ad633,eastwood.mx,available,30.7,30.7,high,low,8,cloudflare,,,28/09/2026 21:36
 d371df16-ea56-4808-a3ad-79d84b5144a6,baseborn.mx,available,22.98,58.98,low,low,8,namecheap,,,08/08/2026 21:34
 4520f046-0a5f-476a-bea3-385257202604,saman.mx,available,39.99,43.99,high,low,5,namesilo,,,18/09/2026 03:12
 8945066b-5000-4b32-888d-3ccac76f85e3,touched.mx,available,26.98,58.98,high,low,7,namecheap,,,25/08/2026 09:12
+9302806b-2072-46ee-bd11-964e9ee285b7,drummer.mx,available,26.98,58.98,medium,low,7,namecheap,,,28/09/2026 09:32
 bfe1763c-4f94-4004-ae81-068178cb34af,willful.mx,available,22.98,58.98,medium,low,7,namecheap,,,18/08/2026 16:37
 0e60a0c0-d441-4130-8622-39860c67c2cb,downside.mx,available,26.98,58.98,medium,low,8,namecheap,,,24/09/2026 23:40
 572fdc2c-2b97-4f43-ad67-8ce8e9ca8ed3,reversive.mx,available,26.98,58.98,medium,low,9,namecheap,,,09/09/2026 16:11
@@ -281,6 +305,7 @@ f4a62f0c-a2f9-492f-a2e4-51c7c5c5f596,purpleness.mx,available,26.98,58.98,high,me
 95b0a785-718c-4805-a17c-e64cc34b7fb9,carboxylic.mx,available,22.98,58.98,medium,low,10,namecheap,,,11/08/2026 18:46
 ad9b402c-0ad0-4849-b6e3-af3781af0c9e,hearable.mx,available,22.98,58.98,medium,low,8,namecheap,,,07/08/2026 16:35
 4e0acd78-98dd-4ecb-9f3e-84c23b779850,madness.mx,available,39.99,43.99,high,low,7,namesilo,,,27/09/2026 04:07
+69a3cf4e-76cb-42c4-a4f5-54b2e6e580c3,finishes.mx,available,26.98,58.98,medium,low,8,namecheap,,,28/09/2026 18:11
 bb73309d-10bc-4d80-a8e6-1664edf0d3e2,abounding.mx,available,24.98,58.98,high,low,9,namecheap,,,
 052b2225-315a-48bb-8ec9-ec8f8703dbe9,capitalize.mx,available,39.99,43.99,high,low,10,namesilo,,,
 31554ad6-a28e-4c22-8cf1-9291062ca2e6,tangibly.mx,available,26.98,58.98,medium,low,8,namecheap,,,16/09/2026 07:54
@@ -296,6 +321,7 @@ ae71bccf-80d8-491b-910c-a77b8d075199,biology.mx,available,26.98,58.98,high,low,7
 5ad5a72f-bc8a-4a07-b232-3815066b8894,faulty.mx,available,22.98,58.98,medium,low,6,namecheap,,,13/08/2026 23:08
 f3fe510e-f1b3-4593-a888-bb1c5ae53b7b,requires.mx,available,39.99,43.99,medium,low,8,namesilo,,,18/09/2026 15:31
 6c923072-b85a-4434-a5fe-afbf2beca111,hilarious.mx,available,26.98,58.98,high,low,9,namecheap,,,21/08/2026 09:21
+708d111a-8401-4d48-b9a4-450cb4b81935,rhymes.mx,available,39.99,43.99,medium,low,6,namesilo,,,29/09/2026 05:42
 b4479e56-0dc5-43e2-a08f-e7b694d41850,mourning.mx,available,26.98,58.98,medium,low,8,namecheap,,,25/08/2026 08:38
 89f7f843-f2d9-4016-89fb-87297de07795,beanbag.mx,available,26.98,58.98,high,low,7,namecheap,,,22/09/2026 20:20
 f39115d2-2bd0-4048-9165-85ff3a915908,baleful.mx,available,22.98,58.98,medium,low,7,namecheap,,,08/08/2026 09:39
@@ -307,11 +333,13 @@ c55a9d2f-86f0-45a9-82fb-abdc7c356a7a,wry.mx,available,26.98,58.98,high,low,3,nam
 77ce1f47-1471-471b-97ab-517b51a27ef4,heartthrob.mx,available,49.99,,high,low,10,name.com,,,
 95bad515-bc41-4eb9-a33f-5a021cd4e500,manful.mx,available,26.98,58.98,medium,low,6,namecheap,,,24/08/2026 14:46
 77442031-65bc-4597-b7e4-5df956f8f14a,prudent.mx,available,39.99,43.99,high,low,7,namesilo,,,27/09/2026 07:54
+e3782968-9af8-4adf-83a5-4e500ae98186,brescia.mx,available,26.98,58.98,medium,low,7,namecheap,,,29/09/2026 06:10
 6962fed2-4485-4ea8-a353-626a7a570345,abenaki.mx,available,24.98,58.98,high,low,7,namecheap,,,
 07765dd0-e510-4762-9e04-69cd9066d17e,nonwhite.mx,available,49.99,58.99,medium,low,9,name.com,,,13/08/2026 18:06
 48e1f0a2-2ef7-4cfb-a08e-aeb66b57ddef,observant.mx,available,26.98,58.98,high,low,9,namecheap,,,22/08/2026 21:19
 1fbf0857-3a3e-4cf6-a3b7-24ec281a6172,fascinated.mx,available,39.99,43.99,high,low,10,namesilo,,,24/09/2026 17:12
 d5d9d536-b2f8-43eb-95ea-bd4dda0d53d4,threefold.mx,available,22.98,58.98,medium,low,9,namecheap,,,14/08/2026 16:42
+cea8457a-33d0-4f29-8c8c-b58f2cdce583,albuquerque.mx,available,39.99,43.99,high,low,11,namesilo,,,29/09/2026 05:43
 e5ebeeed-16e9-4348-89d0-78c155d62c63,foldable.mx,available,22.98,58.98,high,low,8,namecheap,,,18/08/2026 10:06
 00a12b34-24a2-411d-ab6d-0680862660af,steadied.mx,available,26.98,58.98,medium,low,8,namecheap,,,10/09/2026 19:30
 8abe70a9-fc42-4d08-aca3-886a70f91e26,lapplander.mx,available,26.98,58.98,high,medium,10,namecheap,,,09/09/2026 21:05
@@ -348,6 +376,7 @@ df2a9265-815b-4fdc-989c-e098b4e93f04,potbellied.mx,available,24.98,58.98,medium,
 9577bf57-bd5c-4422-a9a2-7bac6f6311bb,fuzzed.mx,available,22.98,58.98,medium,low,6,namecheap,,,18/08/2026 19:20
 cb40b7bc-c6b6-4855-baa2-e28f6dbac41d,orchestrated.mx,available,39.99,43.99,high,low,12,namesilo,,,16/09/2026 23:12
 9bdffca4-2eb4-4027-a6b4-deeed717ee2e,allotropic.mx,available,24.98,58.98,medium,low,10,namecheap,,,
+85d74c01-19e6-46ea-a407-be0649c9dbb8,applying.mx,available,30.7,30.7,medium,low,8,cloudflare,,,28/09/2026 17:22
 7ca4380a-4d83-4898-a96f-08fd555e7355,trumpery.mx,available,22.98,58.98,medium,low,8,namecheap,,,18/08/2026 23:50
 eb96f2fb-02a3-41e8-94ec-064e182f717a,sorely.mx,available,39.99,43.99,medium,low,6,namesilo,,,16/09/2026 05:13
 f486f930-0a27-4d01-9170-e13a631d513d,rappel.mx,available,39.99,43.99,medium,low,6,namesilo,,,16/09/2026 17:38
@@ -358,6 +387,7 @@ cc822125-7ae7-435b-aaae-fbd3bcf01095,ravioli.mx,available,26.98,58.98,high,low,7
 bd20a6b0-4646-4150-8265-8fe55baa5bdd,spiraea.mx,available,39.99,43.99,medium,low,7,namesilo,,,20/09/2026 17:28
 da47275b-cbb3-49dd-8bf3-46235af06cf3,fairchild.mx,available,26.98,58.98,medium,low,9,namecheap,,,27/09/2026 07:56
 28510f9f-4e1a-4ed6-9305-8161946d577f,pinned.mx,available,36.64,42.52,medium,low,6,dynadot,,,28/09/2026 05:02
+9fbae1a2-9114-4d8e-b3bc-078402c73c77,donegal.mx,available,39.99,43.99,high,low,7,namesilo,,,28/09/2026 21:57
 a623ad99-d1d0-49c7-a823-67f30fa0e7db,armiger.mx,available,39.99,43.99,medium,low,7,namesilo,,,20/09/2026 06:59
 ed194397-1f1b-4f89-88fe-4d3181dc21cb,organizing.mx,available,39.99,43.99,high,low,10,namesilo,,,18/09/2026 13:01
 b23af394-d6df-4cbd-a59d-f12aef2778fa,jewelled.mx,available,22.98,58.98,medium,low,8,namecheap,,,18/08/2026 21:12
@@ -368,6 +398,9 @@ b23af394-d6df-4cbd-a59d-f12aef2778fa,jewelled.mx,available,22.98,58.98,medium,lo
 822599b8-61a2-47b9-8596-9e627e09dd70,fairfax.mx,available,26.98,58.98,high,low,7,namecheap,,,25/09/2026 15:13
 e1e14e72-6707-435e-9c95-a076287a8fa2,hueless.mx,available,26.98,58.98,medium,low,7,namecheap,,,21/08/2026 14:36
 3543065f-4e1d-4c9a-9d1a-bed9a52c0b41,consumable.mx,available,22.98,58.98,high,low,10,namecheap,,,12/08/2026 23:04
+2a4ec0d3-f97a-4c06-b2a7-30efe0f93573,designated.mx,available,39.99,43.99,medium,low,10,namesilo,,,28/09/2026 22:42
+1a63f577-e81e-407f-9a54-5abb67af0c3a,inmates.mx,available,30.7,30.7,low,low,7,cloudflare,,,28/09/2026 18:12
+598a3e0d-8aa7-4702-8dbc-2db26e901ef7,refugee.mx,available,26.98,58.98,high,low,7,namecheap,,,28/09/2026 20:17
 3801590a-edf9-4df9-a470-5ed2baf16361,halfway.mx,available,22.98,58.98,high,low,7,namecheap,,,11/08/2026 23:56
 82296bc9-0166-413c-ad09-7a2d4f6f59e9,quint.mx,available,24.98,58.98,medium,low,5,namecheap,,,
 cce61678-3d6f-4c54-aebe-c9b867d59e0e,tailed.mx,available,26.98,58.98,medium,low,6,namecheap,,,11/09/2026 07:08
@@ -380,8 +413,8 @@ e5b88b2e-7f30-450d-a91d-e0eed5c41a12,largest.mx,available,30.7,30.7,medium,low,7
 020d7266-e9e1-42aa-8b55-6003a5734271,snarled.mx,available,26.98,58.98,high,medium,7,namecheap,,,10/09/2026 12:19
 32ad4d06-dcfa-46a5-a1d7-63eff869de42,criterion.mx,available,39.99,43.99,high,low,9,namesilo,,,28/09/2026 00:29
 c97e14b2-a4fe-4327-ba7d-88c28cf1d69c,backplate.mx,available,39.99,43.99,medium,low,9,namesilo,,,21/09/2026 15:46
+eb8a7959-392f-47d2-8743-4e1eadd1d5b1,usages.mx,available,39.99,43.99,low,low,6,namesilo,,,29/09/2026 05:10
 d4aac592-38b3-415c-b816-315393e1059c,nonplus.mx,available,26.98,58.98,medium,low,7,namecheap,,,21/09/2026 17:34
-abe7ac32-8c55-43c5-bb43-35b858e4261d,asia.mx,available,,,high,low,4,,,,
 d0a77d1b-7ff6-4be9-85a7-1272b4ccdd42,yoruba.mx,available,39.99,43.99,high,low,6,namesilo,,,18/09/2026 00:15
 8f7b27d6-b84b-4a63-bd64-1caa9972fa5b,flexibly.mx,available,26.98,58.98,medium,low,8,namecheap,,,14/09/2026 18:58
 ff301a12-d8b6-4e8b-902c-12dbd451b98e,gillespie.mx,available,39.99,43.99,high,low,9,namesilo,,,25/09/2026 04:55
@@ -396,6 +429,7 @@ d0e3d111-f490-4fc3-8c14-5cba9ff2e49c,wary.mx,available,26.98,58.98,medium,low,4,
 3a7db498-8ae5-4123-9e14-1da0e219f57e,thick.mx,available,39.99,43.99,high,low,5,namesilo,,,22/09/2026 22:11
 81c26be0-07ed-4a3c-a208-5dd4bf13b64e,tractable.mx,available,26.98,58.98,medium,low,9,namecheap,,,24/08/2026 15:10
 b7990e90-b5ea-4d73-bed4-7f241e363c57,hated.mx,available,22.98,58.98,medium,low,5,namecheap,,,14/08/2026 04:14
+1012dc44-06b5-4925-b452-12e19de1138a,natasha.mx,available,39.99,43.99,medium,low,7,namesilo,,,28/09/2026 11:59
 3b571db0-f6f7-49ce-90d7-853e6036269a,lamplit.mx,available,26.98,58.98,medium,low,7,namecheap,,,22/08/2026 19:11
 25012a67-60e2-4b96-a8e6-6b33225b4961,baric.mx,available,22.98,58.98,low,low,5,namecheap,,,08/08/2026 19:31
 cec81fdf-c120-4082-b175-c54f1ed5cab3,peter.mx,available,39.99,43.99,high,medium,5,namesilo,,,24/09/2026 16:12
@@ -403,6 +437,7 @@ cec81fdf-c120-4082-b175-c54f1ed5cab3,peter.mx,available,39.99,43.99,high,medium,
 1934ae9c-4315-4c2c-b3ba-a50b8e0eecd5,pyaemic.mx,available,26.98,58.98,high,medium,7,namecheap,,,09/09/2026 06:49
 03f9d3cc-5011-4dcc-b4da-f4883210e44d,beachhead.mx,available,26.98,58.98,medium,low,9,namecheap,,,22/09/2026 19:08
 9265a2b9-1d4d-4ba3-be75-127d7faa6394,anemia.mx,available,26.98,58.98,medium,low,6,namecheap,,,19/09/2026 01:16
+e81b7ee6-75b2-414f-9dba-3ba07092a57c,heidegger.mx,available,36.64,42.52,medium,low,9,dynadot,,,28/09/2026 19:25
 8aba021a-8738-4e39-a9f7-7ec1dcf4bf21,menacing.mx,available,26.98,58.98,medium,low,8,namecheap,,,24/08/2026 19:55
 f094f404-9099-489d-bba5-7852c646c001,taut.mx,available,26.98,58.98,high,low,4,namecheap,,,11/09/2026 09:17
 7391438e-3c5e-42a7-921b-9f8ddf3e5c80,unwavering.mx,available,22.98,58.98,high,low,10,namecheap,,,18/08/2026 05:12
@@ -413,6 +448,7 @@ fdff333c-58ce-4118-a9d8-0ca64c76dbc9,saponified.mx,available,26.98,58.98,high,me
 ed8c7051-f26c-4eec-a03c-45304f02adea,indigotin.mx,available,26.98,58.98,medium,low,9,namecheap,,,22/08/2026 03:05
 77ed085d-142d-4fe6-8b3e-9f45b8baf45f,appal.mx,available,26.98,58.98,medium,low,5,namecheap,,,18/09/2026 01:52
 779aa32e-f40d-4bb1-9aae-9f104d34d959,abdominous.mx,available,24.98,58.98,medium,low,10,namecheap,,,
+62f37086-cc4a-48d3-ac7f-4f005e58ac8a,bowel.mx,available,39.99,43.99,medium,low,5,namesilo,,,29/09/2026 06:08
 02af6ff8-357e-4347-b4be-587ae2ed15e1,sketchy.mx,available,26.98,58.98,high,low,7,namecheap,,,10/09/2026 09:18
 31ba6236-4cb7-4b40-9769-190bc8f8e60b,khat.mx,available,39.99,43.99,medium,low,4,namesilo,,,17/09/2026 15:23
 9364d870-7868-47b3-bfe1-8085d27f1ecf,yelled.mx,available,26.98,58.98,high,low,6,namecheap,,,27/09/2026 21:26
@@ -420,7 +456,7 @@ ed8c7051-f26c-4eec-a03c-45304f02adea,indigotin.mx,available,26.98,58.98,medium,l
 50d998d2-e74d-439b-bc3c-d708ddb9cc6b,bandolier.mx,available,39.99,43.99,medium,low,9,namesilo,,,22/09/2026 01:27
 da77322b-b51c-4fd7-81d2-b443990add84,reminds.mx,available,39.99,43.99,medium,low,7,namesilo,,,27/09/2026 03:09
 d1a779f8-c156-41cf-928f-1aa6d975ffdf,coincidence.mx,available,39.99,43.99,high,low,11,namesilo,,,27/09/2026 21:29
-e182b295-7d42-4f34-98db-6d0296c4b5d8,organizers.mx,available,39.99,43.99,medium,low,10,namesilo,,,21/09/2026 10:09
+e182b295-7d42-4f34-98db-6d0296c4b5d8,organizers.mx,available,39.99,43.99,medium,low,10,namesilo,,,28/09/2026 10:11
 b67ef752-63b2-4825-abb8-d9f4eb5f909f,crisply.mx,available,26.98,58.98,medium,low,7,namecheap,,,14/09/2026 09:37
 c89377c8-dafb-4773-80df-0535f2a4bf51,ascus.mx,available,39.99,43.99,medium,low,5,namesilo,,,20/09/2026 13:28
 3bbef398-374a-48e7-930a-afac2be57984,fingerless.mx,available,22.98,58.98,medium,low,10,namecheap,,,18/08/2026 04:55
@@ -430,6 +466,7 @@ e559a176-d369-4774-90c0-ef1f60dbf932,joyous.mx,available,26.98,58.98,high,low,6,
 e653adc9-e955-4667-997a-da59f3590d78,prohibited.mx,available,22.98,58.98,medium,low,10,namecheap,,,08/08/2026 13:48
 aca33340-463c-4fb4-99ec-fd1140c79343,energising.mx,available,22.98,58.98,medium,low,10,namecheap,,,17/08/2026 06:43
 e8985724-7c45-4d85-86fe-1fdcaaf7916d,aloof.mx,available,24.98,58.98,medium,low,5,namecheap,,,
+58401278-07a7-4bab-9ed4-16294ac1a5aa,kimberly.mx,available,39.99,43.99,medium,low,8,namesilo,,,28/09/2026 08:56
 3fe2aa05-f3d1-482f-af60-dccb2c1a4771,andalusia.mx,available,39.99,43.99,high,low,9,namesilo,,,19/09/2026 03:57
 31fd8b60-7cae-4483-9d1c-027a2172d61b,facilitate.mx,available,39.99,43.99,high,low,10,namesilo,,,
 634aec58-bb6d-46d0-be74-2b314f1047f2,lebanese.mx,available,26.98,58.98,high,low,8,namecheap,,,22/08/2026 22:15
@@ -442,23 +479,28 @@ c690f73e-c14d-4ca3-9df9-40d997b04dcd,dampish.mx,available,49.99,58.99,medium,low
 09e9bd37-86bb-4d67-bf4d-ee4c38ae9d62,really.mx,available,39.99,43.99,high,low,6,namesilo,,,27/09/2026 09:55
 5ce4dbf8-b863-4b68-bce4-a55868f22a0d,nonslip.mx,available,39.99,43.99,medium,low,7,namesilo,,,03/09/2026 20:38
 17fb5920-35f9-430c-bdfc-a032478b6aab,coppery.mx,available,22.98,58.98,medium,low,7,namecheap,,,13/08/2026 00:34
+aa2c86b2-c275-4482-91aa-e12fb6be9403,tennessee.mx,available,39.99,43.99,high,low,9,namesilo,,,28/09/2026 11:00
 5c59aaa3-3f97-47c6-ba9b-0b957f427cf0,hempen.mx,available,22.98,58.98,medium,low,6,namecheap,,,18/08/2026 03:20
 efb66542-1462-4f09-89e3-51346c5ce9cc,commonsense.mx,available,39.99,43.99,high,low,12,namesilo,,,
 925b0278-19d0-413d-9903-c62cd0f7bd95,cordless.mx,available,22.98,58.98,high,low,8,namecheap,,,13/08/2026 01:04
 1371f519-97cb-482d-b3fc-40c0798b32e1,catching.mx,available,22.98,58.98,high,low,8,namecheap,,,11/08/2026 21:16
-fbb7f204-db98-48d4-a7ff-2fbacc8a0540,barring.mx,available,39.99,43.99,medium,low,7,namesilo,,,
+fbb7f204-db98-48d4-a7ff-2fbacc8a0540,barring.mx,available,35.57,41.23,medium,low,7,porkbun,,,29/09/2026 01:15
 0f4afa1d-7eb0-4185-a019-2a4fbcb26f27,successor.mx,available,49.99,,high,low,9,name.com,,,
 bcbbd851-9832-49d9-818f-e0cad49774f6,guttural.mx,available,22.98,58.98,medium,low,8,namecheap,,,13/08/2026 07:31
 d05c52b2-49cb-4857-8dfc-eb05b1223134,acardia.mx,available,26.98,58.98,medium,low,7,namecheap,,,16/09/2026 21:17
+badee40f-cc55-436d-83cf-5d5c0dcf4055,usaid.mx,available,30.7,30.7,medium,low,5,cloudflare,,,28/09/2026 16:09
 a6e4c182-bd8b-4e4d-a23d-fa56c43167fc,normandy.mx,available,39.99,43.99,medium,low,8,namesilo,,,
 4f751048-54c0-4362-b952-82b7083fe120,equable.mx,available,22.98,58.98,medium,low,7,namecheap,,,17/08/2026 11:33
 416e70eb-3d57-4e25-9240-3c67ad172bcd,invented.mx,available,39.99,43.99,high,low,8,namesilo,,,
-019433e1-0d2f-4636-9fd5-6065fe8224ac,coldly.mx,available,39.99,43.99,medium,low,6,namesilo,,,
+a4ef1a4d-ed31-43c5-998c-35b9965fbc56,cylinder.mx,available,39.99,43.99,high,low,8,namesilo,,,29/09/2026 00:34
+019433e1-0d2f-4636-9fd5-6065fe8224ac,coldly.mx,available,39.99,43.99,low,low,6,namesilo,,,28/09/2026 14:07
 be77d0a9-54b4-4a5e-99c6-2aaf16649b98,achondrite.mx,available,26.98,58.98,medium,low,10,namecheap,,,17/09/2026 00:54
 d87fe99a-1d82-48af-b839-06d66c2a659d,lies.mx,available,49.99,,medium,low,4,name.com,,,
 d3361570-00ec-46f6-808b-bdf5b6d1485e,paramedic.mx,available,26.98,58.98,high,low,9,namecheap,,,08/09/2026 00:59
 ebe04d36-53a5-4d74-bd42-56cce52d464b,contribute.mx,available,30.7,30.7,high,low,10,cloudflare,,,28/09/2026 06:58
+2ae38828-d27d-41e8-b994-b342ebaf03f2,behold.mx,available,36.64,42.52,high,low,6,dynadot,,,28/09/2026 15:34
 40d49d59-60ba-4baf-bf27-1c482965ade9,reflexive.mx,available,26.98,58.98,high,medium,9,namecheap,,,09/09/2026 12:40
+f9fcb172-89be-4af5-bbf2-dfaa40b7ce98,lakewood.mx,available,30.7,30.7,medium,low,8,cloudflare,,,28/09/2026 16:53
 0d2e7279-e218-4c7c-9bc5-2e7a8fbdfd0f,unprovoked.mx,available,26.98,58.98,medium,low,10,namecheap,,,25/08/2026 07:52
 cb6968d2-2f3a-41b4-8d8a-fc26d1f490bf,scribble.mx,available,39.99,43.99,high,low,8,namesilo,,,24/09/2026 11:35
 1ac5508a-0299-4e47-922e-aa0e958379cc,coequal.mx,available,22.98,58.98,medium,low,7,namecheap,,,12/08/2026 15:22
@@ -466,12 +508,14 @@ cb6968d2-2f3a-41b4-8d8a-fc26d1f490bf,scribble.mx,available,39.99,43.99,high,low,
 4c47276c-10ee-4763-80ef-5a21c7463313,causally.mx,available,26.98,58.98,medium,low,8,namecheap,,,14/09/2026 06:01
 4e84de1f-d592-4003-8f02-0290c93fa10c,bindery.mx,available,39.99,43.99,high,low,7,namesilo,,,23/09/2026 17:11
 b5efc807-8d17-476b-a9b1-73e62150ee62,asheville.mx,available,26.98,58.98,high,low,9,namecheap,,,20/09/2026 13:49
+f22fce62-5d91-4120-ad64-048923dd9ed4,deliberately.mx,available,35.57,41.23,medium,low,12,porkbun,,,28/09/2026 11:27
 49b58fc1-5371-467f-8eee-31b41fcd2a54,arthropoda.mx,available,39.99,43.99,medium,low,10,namesilo,,,20/09/2026 10:41
 2f02840c-ae22-4009-bd20-358914fc3eb8,eighteen.mx,available,39.99,43.99,high,low,8,namesilo,,,21/09/2026 11:58
+dc2bd7d0-60e6-4335-9b7a-9e4422de7a77,resisting.mx,available,30.7,30.7,medium,low,9,cloudflare,,,28/09/2026 21:16
 7f4fce2c-ddff-4b55-ae93-892ba8311ddd,home.mx,resell,,,high,medium,4,1api GmbH,02/09/2009 00:00,01/09/2027 00:00,26/09/2026 06:42
 af231a96-e000-4010-bdd3-788243846d66,dispatching.mx,available,39.99,43.99,high,low,11,namesilo,,,
 c1c63f3a-91f2-4458-8d5d-86d60efb7807,abject.mx,available,24.98,58.98,medium,low,6,namecheap,,,
-7d3a8e83-e33b-4934-8724-05ada62b365f,apology.mx,available,49.99,,high,low,7,name.com,,,
+7d3a8e83-e33b-4934-8724-05ada62b365f,apology.mx,available,30.7,30.7,high,low,7,cloudflare,,,28/09/2026 21:41
 0ec56360-54e7-4511-a916-e249573ca647,haggai.mx,available,26.98,58.98,medium,low,6,namecheap,,,17/09/2026 17:22
 d70eb11d-18bc-4feb-af9e-90812e56aeca,married.mx,available,49.99,58.99,high,low,7,name.com,,,25/09/2026 16:47
 a04784f1-292a-4f05-a84e-dd5915777d0b,rights.mx,available,39.99,43.99,medium,low,6,namesilo,,,17/09/2026 03:52
@@ -486,6 +530,7 @@ d457cadc-f829-41f4-84d7-c08098973c30,bandsaw.mx,available,39.99,43.99,high,low,7
 7b29a7cd-a541-4400-a855-00c4185e2ba6,spacial.mx,available,26.98,58.98,high,medium,7,namecheap,,,10/09/2026 15:08
 e8fb88a2-4f6c-448e-b544-a56c4bf8dea4,miss.mx,resell,,,high,low,4,,,,27/09/2026 03:56
 025b4128-86aa-4b73-ab69-6211c606c1ad,landscaping.mx,resell,,,high,low,11,GoDaddy.com,26/01/2014 00:00,26/01/2027 00:00,28/09/2026 06:56
+1db9d95f-9071-4e0a-9b8e-9005033078aa,faye.mx,available,26.98,58.98,medium,low,4,namecheap,,,28/09/2026 13:31
 72dc221f-8df0-4419-9ecc-87f7bef434ee,dearest.mx,available,22.98,58.98,high,low,7,namecheap,,,09/08/2026 13:50
 86d9f308-9d4a-4137-9ab7-3f1302a00953,summery.mx,available,26.98,58.98,high,low,7,namecheap,,,11/09/2026 01:38
 4f24f00f-7ddb-4e34-a3f5-4027e3a1112d,floodwaters.mx,available,39.99,43.99,medium,low,11,namesilo,,,21/09/2026 03:37
@@ -495,6 +540,7 @@ dcb75e57-8855-4d1d-9244-10354e7b2f9a,wilkes.mx,available,39.99,43.99,medium,low,
 fc2ee8a6-0513-4728-8dd4-3602f572df0d,inc.mx,resell,,,high,low,3,1api GmbH,24/09/2009 00:00,23/09/2027 00:00,26/09/2026 06:50
 2a2499c6-12fb-4b9e-9994-691c39f2d622,asarum.mx,available,39.99,43.99,medium,low,6,namesilo,,,20/09/2026 12:52
 6e25c6a3-5f61-46fa-a8ad-5e8743241cca,abstemious.mx,available,24.98,58.98,medium,low,10,namecheap,,,
+f949781e-758c-4ac5-be9a-8849b50d45bb,steinberg.mx,available,39.99,43.99,medium,low,9,namesilo,,,28/09/2026 10:52
 8191febf-dda2-423b-9523-26f1bc073d95,flaccid.mx,available,22.98,58.98,medium,low,7,namecheap,,,18/08/2026 06:07
 09b386fb-3fad-47cb-837e-f710902eca2a,layered.mx,resell,,,high,low,7,Registrar.eu,11/12/2020 00:00,11/12/2026 00:00,26/09/2026 07:10
 e20890c8-0789-4250-a672-5041b5f5846f,militant.mx,available,24.98,58.98,high,low,8,namecheap,,,
@@ -504,7 +550,7 @@ ad4f0fd8-9cae-42d7-8430-67c209068332,graveyard.mx,available,36.64,42.52,medium,l
 b8787034-2e74-438d-aebc-2172e6c928b1,medially.mx,available,26.98,58.98,medium,low,8,namecheap,,,15/09/2026 13:54
 ec2cb202-55e2-42ec-8e55-ee773f12e35d,theoretic.mx,available,26.98,58.98,medium,low,9,namecheap,,,11/09/2026 12:54
 ab4030c4-b0fc-40b2-9f03-18843194e9bf,fatefully.mx,available,26.98,58.98,medium,low,9,namecheap,,,14/09/2026 17:53
-d004bf81-73e7-4c51-9142-e6bff2855fac,specially.mx,available,49.99,,medium,low,9,name.com,,,
+d004bf81-73e7-4c51-9142-e6bff2855fac,specially.mx,available,30.7,30.7,medium,low,9,cloudflare,,,28/09/2026 14:42
 18aef153-8797-425e-a90c-bc2bafeab226,platypus.mx,available,39.99,43.99,high,low,8,namesilo,,,25/09/2026 00:17
 b669caf2-4a76-470b-8515-907b5d83b084,agreement.mx,available,39.99,43.99,high,low,9,namesilo,,,28/09/2026 08:10
 1c9b0abb-512a-473b-8c33-5e696e7a8f07,beguine.mx,available,39.99,43.99,medium,low,7,namesilo,,,23/09/2026 02:59
@@ -532,7 +578,6 @@ a7f280c0-df04-459b-aea7-8cf722e064bb,maximising.mx,available,26.98,58.98,medium,
 6777a5d7-523e-4e71-943d-b5912cdbf13b,stilt.mx,available,39.99,43.99,medium,low,5,namesilo,,,21/09/2026 04:51
 07f611c3-c6d1-4c8d-8e95-a8441f659fa7,florence.mx,available,30.7,30.7,high,low,8,cloudflare,,,28/09/2026 05:43
 5fb431aa-eefe-4777-adde-4e4631c3ab10,tzarist.mx,available,49.99,58.99,medium,low,7,name.com,,,13/08/2026 14:59
-40248cf5-f766-406c-aebb-3e2d2d892ef4,clothes.mx,available,39.99,43.99,high,low,7,namesilo,,,
 d79108aa-19a0-4139-963a-b42c0a353880,freckled.mx,available,22.98,58.98,medium,low,8,namecheap,,,18/08/2026 14:26
 ea2a2a63-23e1-40ef-aa84-ed536fc11bff,arability.mx,available,39.99,43.99,medium,low,9,namesilo,,,19/09/2026 23:32
 142f764a-41bf-4767-a1dd-539828275788,stockings.mx,available,39.99,43.99,medium,low,9,namesilo,,,17/09/2026 08:14
@@ -548,6 +593,7 @@ a24e705a-65e2-4c31-9608-29b0777e1a73,hayden.mx,available,39.99,43.99,high,low,6,
 4c44e330-0ff4-4e3d-8597-df9f5f62cf82,shortness.mx,available,39.99,43.99,medium,low,9,namesilo,,,16/09/2026 17:27
 7736de5a-a9ee-4f41-a321-f650d25e0f65,accomplish.mx,available,30.7,30.7,high,low,10,cloudflare,,,28/09/2026 06:55
 278b1f0b-7c56-42f3-9fec-7926aa4d6fe1,sibilant.mx,available,22.98,58.98,medium,low,8,namecheap,,,12/08/2026 23:18
+c79ad979-934b-4e91-87dc-b68b19f5f2bc,hunan.mx,available,26.98,58.98,medium,low,5,namecheap,,,28/09/2026 10:07
 2faf8960-e8d0-4cfd-8aa0-cc3a09fea5b3,ned.mx,available,39.99,43.99,high,low,3,namesilo,,,25/09/2026 11:37
 d61886fb-7a4d-483d-957c-99ff2d27260c,formosan.mx,available,22.98,58.98,high,low,8,namecheap,,,18/08/2026 12:16
 f0d05943-3086-4d0b-9d50-5fa85bbdcadc,tunic.mx,available,26.98,58.98,high,low,5,namecheap,,,17/09/2026 10:34
@@ -580,6 +626,7 @@ b87e2a65-f26c-4c97-8905-d6f7e452c875,cancelled.mx,available,22.98,58.98,high,low
 dc116eb8-9922-493e-a6f1-79a4dad8e627,downriver.mx,available,22.98,58.98,medium,low,9,namecheap,,,14/08/2026 18:01
 87b7366e-435f-4aa5-a106-cfc7325356f6,motorcoach.mx,available,26.98,58.98,medium,low,10,namecheap,,,21/09/2026 06:31
 b465e6c0-f685-4575-9e99-1dc3ed2b9a8c,salubrious.mx,available,26.98,58.98,medium,low,10,namecheap,,,20/08/2026 16:33
+58e11032-f195-497b-b185-21fa04a5713a,captains.mx,available,30.7,30.7,medium,low,8,cloudflare,,,28/09/2026 23:33
 a70b3210-c9b0-428f-b01c-901d3fa22c97,theories.mx,available,39.99,43.99,medium,low,8,namesilo,,,28/09/2026 05:40
 b4b86e91-fb65-4715-853d-59e7c91aad3b,shrill.mx,available,26.98,58.98,high,medium,6,namecheap,,,10/09/2026 06:54
 ade95e92-5815-432f-be6f-6c5090a69433,continues.mx,available,26.98,58.98,medium,low,9,namecheap,,,17/09/2026 13:29
@@ -606,6 +653,7 @@ cb1acbb3-a0fb-4744-b7f9-727243c155f6,assignor.mx,available,49.99,58.99,medium,lo
 34996afc-b62f-4faa-9692-ca2e42e4cf91,bibos.mx,available,39.99,43.99,low,low,5,namesilo,,,23/09/2026 13:02
 3b6d6024-7912-4374-861b-e05197e21406,sanitised.mx,available,26.98,58.98,high,medium,9,namecheap,,,09/09/2026 21:18
 a2e1be7f-da10-4ea9-8c9c-92653108a0dc,numerous.mx,available,26.98,58.98,high,low,8,namecheap,,,22/08/2026 23:01
+744542a5-0f84-4688-8ac7-0f1d85babcd3,consolation.mx,available,39.99,43.99,high,low,11,namesilo,,,28/09/2026 22:58
 6cce720f-4378-487a-8a0c-1f4984d0274d,anoa.mx,available,39.99,43.99,medium,low,4,namesilo,,,19/09/2026 11:10
 6ebf5e3b-369f-4c52-be93-a78f231068be,breathtaking.mx,available,39.99,43.99,high,low,12,namesilo,,,
 88e180c9-97fb-4380-911b-7ac08bc90eff,pour.mx,available,39.99,43.99,high,low,4,namesilo,,,
@@ -613,6 +661,7 @@ a2e1be7f-da10-4ea9-8c9c-92653108a0dc,numerous.mx,available,26.98,58.98,high,low,
 3f714742-8a10-4688-8b5a-d3759416f71f,beardless.mx,available,22.98,58.98,medium,low,9,namecheap,,,09/08/2026 04:43
 cc80ba56-6cb4-4246-ac6d-c3434c86ed7b,near.mx,available,39.99,43.99,high,low,4,namesilo,,,23/09/2026 13:54
 d489c548-b4c0-4557-bda3-3ce26e8a73f4,gangly.mx,available,22.98,58.98,medium,low,6,namecheap,,,18/08/2026 20:09
+a4819fde-1ffa-4b50-91b3-a7037c52acf9,occurs.mx,available,36.64,42.52,medium,low,6,dynadot,,,28/09/2026 17:56
 3036029f-0cad-4356-90c3-02042aa061e8,dissolve.mx,available,39.99,43.99,high,low,8,namesilo,,,
 8eee4645-63e8-4a19-b2bf-dcd294f88002,insect.mx,available,39.99,43.99,high,low,6,namesilo,,,
 dbda5350-2084-4a1d-bba0-f1fb955e2ed4,relatives.mx,available,39.99,43.99,medium,low,9,namesilo,,,27/09/2026 10:25
@@ -651,9 +700,12 @@ fddeedb6-cc43-489d-b22c-3616c2a69ab8,rodgers.mx,available,39.99,43.99,high,low,7
 8d08d8a2-1922-4b12-864d-2dc48cbc0dee,dextrous.mx,available,22.98,58.98,medium,low,8,namecheap,,,13/08/2026 23:53
 258a49ad-4ae1-4bdc-9cc6-d27b10b31480,packaged.mx,available,39.99,43.99,high,low,8,namesilo,,,04/09/2026 22:44
 847317d2-eeb9-49d0-9425-b6337ac6fc99,dressing.mx,available,39.99,43.99,high,low,8,namesilo,,,22/09/2026 00:55
+e01d4cd7-4540-49e2-bade-64fd49197263,receiver.mx,available,35.57,41.23,high,low,8,porkbun,,,28/09/2026 10:40
 8019ed4d-4c8c-478a-b001-71ff7bdce438,boehme.mx,available,26.98,58.98,medium,low,6,namecheap,,,23/09/2026 03:32
 2546be43-540a-4441-a3b4-d0f96c086b66,forester.mx,available,39.99,43.99,medium,low,8,namesilo,,,20/09/2026 00:50
+c1599626-2855-48ce-aecf-3aa9d58faa83,richest.mx,available,39.99,43.99,medium,low,7,namesilo,,,28/09/2026 12:54
 fbf8932c-86ac-48da-a7f5-35b120869a4f,canonized.mx,available,22.98,58.98,medium,low,9,namecheap,,,11/08/2026 17:25
+f98772cc-d7e2-4c40-a7e1-904c676186d9,plo.mx,available,39.99,43.99,medium,low,3,namesilo,,,28/09/2026 10:40
 e8d9e774-dab2-4473-8149-ed9c8db04373,zygomatic.mx,available,26.98,58.98,medium,low,9,namecheap,,,13/09/2026 15:39
 adaa597c-ed37-4705-bfaf-f4b9a4262f6a,bilingual.mx,available,22.98,58.98,high,low,9,namecheap,,,09/08/2026 21:21
 228d6b77-45eb-4c46-8608-ae6e21f852c0,bitok.mx,available,26.98,58.98,medium,low,5,namecheap,,,23/09/2026 22:40
@@ -673,6 +725,7 @@ ffa231ba-c139-418b-95bc-0aec5f9c4e88,confidant.mx,available,26.98,58.98,high,low
 4b4f9d37-f44b-499e-be68-020ec5b1522b,nobly.mx,available,26.98,58.98,medium,low,5,namecheap,,,15/09/2026 16:42
 91f32e0b-2c88-4ad7-9237-8fcc589986e3,rostrum.mx,available,39.99,43.99,medium,low,7,namesilo,,,18/09/2026 17:15
 d38b2879-08ef-4b9e-b9a8-2a52be25c703,tehran.mx,available,39.99,43.99,high,low,6,namesilo,,,25/09/2026 22:03
+193a3a0a-766d-459b-b65d-ad193294ab54,theodore.mx,available,26.98,58.98,high,low,8,namecheap,,,29/09/2026 02:58
 c41b1726-723e-4af8-b6a2-3bb6f09988dc,timeline.mx,available,39.99,43.99,high,low,8,namesilo,,,27/09/2026 05:39
 41a02c3d-2df4-4fa4-b300-f708f331011d,abrachia.mx,available,39.99,43.99,medium,low,8,namesilo,,,16/09/2026 16:47
 db5bc5cd-6e73-44f6-8fad-74a36a8fde6e,skimpy.mx,available,26.98,58.98,high,low,6,namecheap,,,10/09/2026 09:36
@@ -686,6 +739,7 @@ ed7391eb-4c57-4f12-8d68-26870ca23275,hubbub.mx,available,26.98,58.98,medium,low,
 5898d292-727e-42fb-b3a9-841a59c04d4e,apiary.mx,available,26.98,58.98,high,low,6,namecheap,,,19/09/2026 17:20
 a93bdf8b-4b4f-4c77-bbf8-1736f1a96b4c,skillfully.mx,available,26.98,58.98,medium,low,10,namecheap,,,16/09/2026 02:07
 7a652d64-0178-43eb-ba4f-b266b20600f3,kennelly.mx,available,39.99,43.99,medium,low,8,namesilo,,,16/09/2026 12:58
+30761fca-ebfa-4a99-94ce-b8eedd5f3ba6,graz.mx,available,30.7,30.7,medium,low,4,cloudflare,,,29/09/2026 01:07
 9aff2685-b517-4981-9395-087752e791de,undersea.mx,available,26.98,58.98,medium,low,8,namecheap,,,11/09/2026 00:18
 3f0c6220-22f6-4343-95d8-d99c3d7327e0,laggard.mx,available,22.98,58.98,medium,low,7,namecheap,,,14/08/2026 07:32
 94a326d7-0b40-44a1-b6ae-647e9bb84a0c,dilatory.mx,available,39.99,43.99,medium,low,8,namesilo,,,14/08/2026 07:31
@@ -700,12 +754,13 @@ b90f31f0-49ca-44e6-b3a1-4d178c24bbfd,manifold.mx,available,26.98,58.98,high,low,
 ba744d9d-e057-4095-82c7-8e7ed08bb720,antonius.mx,available,39.99,43.99,medium,low,8,namesilo,,,19/09/2026 13:34
 db6dc91e-8a59-4eba-ab25-1aff4e4cfe98,shorter.mx,available,39.99,43.99,medium,low,7,namesilo,,,27/09/2026 17:41
 0be6ee4c-3c4a-4363-84c1-8197f67f0641,pagan.mx,available,22.98,58.98,medium,low,5,namecheap,,,18/08/2026 21:57
-51578b33-501c-4dca-aed0-473e80816229,everywhere.mx,available,49.99,,high,low,10,name.com,,,
+51578b33-501c-4dca-aed0-473e80816229,everywhere.mx,available,30.7,30.7,high,low,10,cloudflare,,,28/09/2026 14:50
 0130bbd2-203d-4079-b245-5ab7dcb9656d,unrepaired.mx,available,26.98,58.98,medium,low,10,namecheap,,,12/09/2026 18:17
 257f8694-8981-4de5-b44f-7ba91c9202f4,doors.mx,available,39.99,43.99,high,low,5,namesilo,,,25/09/2026 19:46
 f2a401f2-8e17-4a85-a46e-1f02ac5549e3,hegelian.mx,available,26.98,58.98,medium,low,8,namecheap,,,21/08/2026 06:14
-8227a757-3aed-4c38-93ec-9943424a2b9c,wrecked.mx,available,39.99,43.99,medium,low,7,namesilo,,,
+8227a757-3aed-4c38-93ec-9943424a2b9c,wrecked.mx,available,39.99,43.99,medium,low,7,namesilo,,,28/09/2026 11:09
 9fff75a7-7c45-473b-9aae-79f216b398eb,monacan.mx,available,26.98,58.98,medium,low,7,namecheap,,,25/08/2026 04:01
+3af37d3e-8d68-484e-8ce2-4fd7ddd5cd1d,obstacles.mx,available,39.99,43.99,low,low,9,namesilo,,,29/09/2026 05:04
 ba4af6c0-5b56-4b10-890c-b6d18d8b46a4,flavorsome.mx,available,22.98,58.98,high,low,10,namecheap,,,18/08/2026 07:12
 73180d82-4ff6-4781-b782-ec8593cf79d2,prototypal.mx,available,22.98,58.98,medium,low,10,namecheap,,,06/08/2026 15:37
 d47b3851-db58-405f-8831-6bbd648ba1c0,rages.mx,available,26.98,58.98,low,low,5,namecheap,,,20/09/2026 11:24
@@ -723,6 +778,7 @@ b7d7df45-1000-4f97-ba8c-98b90e97f723,dispersive.mx,available,22.98,58.98,medium,
 224c6484-3802-478c-a38e-a0c11b143eac,overfond.mx,available,39.99,43.99,medium,low,8,namesilo,,,04/09/2026 20:35
 da9a9c3d-25d4-489a-9dc7-2f6f3b1fee8f,adansonia.mx,available,26.98,58.98,medium,low,9,namecheap,,,17/09/2026 06:21
 7c7dc5e1-3368-46b8-bc08-5498bae20898,isaiah.mx,available,39.99,43.99,high,low,6,namesilo,,,24/09/2026 06:53
+00792cc4-b84c-40b0-9966-cfa7c71adfae,contemporary.mx,available,39.99,43.99,high,low,12,namesilo,,,28/09/2026 15:37
 b2826033-2f84-4e6f-aa5a-5d2196ec3e44,polyploid.mx,available,26.98,58.98,medium,low,9,namecheap,,,08/09/2026 23:29
 d2a6959b-6149-482b-8a1d-f7b03d1fa9bc,absolutist.mx,available,24.98,58.98,medium,low,10,namecheap,,,
 6d039fc3-286a-4ec6-9921-5fbcf047d3b0,purau.mx,available,39.99,43.99,medium,low,5,namesilo,,,21/09/2026 22:02
@@ -737,7 +793,9 @@ a6dd6aa5-a350-4727-8d21-2a6bf306df51,uniting.mx,available,49.99,58.99,high,low,7
 8f4660f1-8a49-42e3-aad7-ce4afab3e575,molecules.mx,available,39.99,43.99,medium,low,9,namesilo,,,
 c7ed4eda-6c5e-42b7-9eb4-ce55e0ac9088,dahna.mx,available,39.99,43.99,medium,low,5,namesilo,,,19/09/2026 23:21
 b30682f1-b9d6-48be-9d0b-f1d2457c0d55,rustling.mx,available,39.99,43.99,high,low,8,namesilo,,,03/09/2026 11:20
+6064dda9-f587-45b6-a05c-71d688c66816,nazis.mx,available,26.98,58.98,low,low,5,namecheap,,,28/09/2026 09:00
 b71c0247-cfec-4f83-a65d-91170ac73176,accepting.mx,available,39.99,43.99,high,low,9,namesilo,,,21/09/2026 15:33
+f019558a-9982-42c0-adb6-3f7dca0dac65,moth.mx,available,30.7,30.7,high,low,4,cloudflare,,,28/09/2026 19:56
 f4dcb634-a13e-49cd-84c3-7262f8942835,silenced.mx,available,26.98,58.98,high,medium,8,namecheap,,,10/09/2026 08:05
 258669af-ba45-4db6-950d-69d588be19bc,conceptive.mx,available,22.98,58.98,medium,low,10,namecheap,,,12/08/2026 20:03
 dbd07070-c630-4166-b482-7df33a032312,racetrack.mx,available,39.99,43.99,high,low,10,namesilo,,,
@@ -750,6 +808,7 @@ ca77635b-e3e9-4ae5-90ad-9f8c2a43b02c,subsequent.mx,available,26.98,58.98,high,lo
 7c5de1c5-876e-4aba-aad4-e763910228c0,silvervine.mx,available,26.98,58.98,low,low,10,namecheap,,,17/09/2026 04:49
 4258f9fd-c730-4ba5-87e3-f58831ebdf2b,doings.mx,available,26.98,58.98,high,low,6,namecheap,,,23/09/2026 03:17
 f2caf59d-8120-4992-a724-8729677b900e,overcomes.mx,available,39.99,43.99,medium,low,9,namesilo,,,21/09/2026 04:26
+4f61b2b4-f8ce-4d5f-950c-99e4c17baebb,bombay.mx,available,36.64,42.52,medium,low,6,dynadot,,,29/09/2026 00:15
 9826f3fd-837a-4615-9a27-176b9d74727d,salzburg.mx,available,35.57,41.23,high,low,8,porkbun,,,28/09/2026 03:02
 14e6e46d-6e6e-48a5-b5f3-a4ecc4dc22fa,rhomboidal.mx,available,26.98,58.98,medium,low,10,namecheap,,,09/09/2026 16:49
 4b687857-8463-44a1-a1e9-d545c297b442,nontoxic.mx,available,26.98,58.98,medium,low,8,namecheap,,,18/09/2026 21:11
@@ -782,15 +841,17 @@ fd733ce2-9e7b-4da8-83ba-a0943566f19d,administration.mx,available,39.99,43.99,hig
 940baf25-4296-4df2-9ea6-ece440d0ba1b,butterflies.mx,available,49.99,58.99,high,low,11,name.com,,,16/09/2026 12:02
 bcfe5249-aba9-4167-a5ac-c2cb1f574fd3,preferable.mx,available,26.98,58.98,high,medium,10,namecheap,,,09/09/2026 01:36
 51a7bd9a-c158-4fe4-bd55-145b752612bb,venter.mx,available,39.99,43.99,medium,low,6,namesilo,,,16/09/2026 14:46
+76a60c67-8db6-4814-8879-bf813f6da981,rnas.mx,available,26.98,58.98,low,low,4,namecheap,,,29/09/2026 05:15
 53582c30-fafd-4ec1-b191-c3043e942208,sanctions.mx,available,39.99,43.99,medium,low,9,namesilo,,,20/09/2026 01:56
 90101121-377c-4d5e-bde2-812b074969d3,carried.mx,available,39.99,43.99,medium,low,7,namesilo,,,25/09/2026 17:00
+a6c948df-4eef-468b-867c-c2f3fb4a57ec,rendered.mx,available,39.99,43.99,medium,low,8,namesilo,,,29/09/2026 05:08
 763650fc-923c-4a72-baa3-69859b7b35b5,sixer.mx,available,24.98,58.98,medium,low,5,namecheap,,,
 30800082-3339-43f8-b66e-4e4767384247,unadjusted.mx,available,26.98,58.98,medium,low,10,namecheap,,,11/09/2026 23:52
 059c5753-df21-4e10-8c49-6c945e72ee74,literatim.mx,available,26.98,58.98,medium,low,9,namecheap,,,15/09/2026 12:34
 5c005f59-d1e7-4520-8fd5-7f8def006631,institute.mx,available,39.99,43.99,high,low,9,namesilo,,,28/09/2026 06:02
 0439ace0-5e0e-4934-b3b8-477beaaa2233,announcer.mx,available,39.99,43.99,high,low,9,namesilo,,,19/09/2026 10:49
 6d9373e1-c5bd-414e-98b9-272815788765,thready.mx,available,22.98,58.98,medium,low,7,namecheap,,,18/08/2026 04:08
-1cbb2f94-faff-4b85-9853-bf2c55b3cc87,bones.mx,available,49.99,,medium,low,5,name.com,,,
+1cbb2f94-faff-4b85-9853-bf2c55b3cc87,bones.mx,available,26.98,58.98,medium,low,5,namecheap,,,29/09/2026 03:19
 76f30c55-19d6-493f-ab79-4a9493117d9d,counseling.mx,available,26.98,58.98,high,low,10,namecheap,,,28/09/2026 05:25
 2562fd25-ade8-4c05-9cdf-547620ccd42c,alternatively.mx,available,26.98,58.98,medium,low,13,namecheap,,,16/09/2026 12:44
 3ca0ad45-7dfb-4810-9908-8940ccc62a6b,chickpea.mx,available,39.99,43.99,high,low,8,namesilo,,,24/09/2026 14:29
@@ -825,6 +886,7 @@ ace2d2a4-72ad-44e8-b35c-7389b6183dd7,dumbfound.mx,available,26.98,58.98,medium,l
 4eb198cd-5cf0-45fb-be23-a13300ed5664,undesigned.mx,available,26.98,58.98,medium,low,10,namecheap,,,12/09/2026 07:46
 2a2d498a-e5d5-493d-9e18-a17800ad6509,baronial.mx,available,22.98,58.98,medium,low,8,namecheap,,,08/08/2026 20:11
 709594fd-2635-4a9a-81e6-f7c50d9fd875,semisoft.mx,available,26.98,58.98,medium,low,8,namecheap,,,10/09/2026 03:24
+2470e638-e16c-4461-abac-92fabbeb24cd,judas.mx,available,39.99,43.99,medium,low,5,namesilo,,,28/09/2026 19:35
 a1a3136f-7221-4671-95a4-9646b432c29a,extremity.mx,available,26.98,58.98,medium,low,9,namecheap,,,19/09/2026 20:32
 5a69e0c0-803a-4663-afa4-08d292910a06,anagnost.mx,available,39.99,43.99,medium,low,8,namesilo,,,19/09/2026 01:26
 50e87ed1-0eba-447c-ad78-f15a9a320240,whoreson.mx,available,22.98,58.98,low,low,8,namecheap,,,08/08/2026 23:43
@@ -833,6 +895,7 @@ c97d34e3-26b5-4f0b-8f69-842a9527fee4,dictation.mx,available,39.99,43.99,high,low
 e8def4c6-f644-4078-b631-00a96849418b,diane.mx,available,26.98,58.98,medium,low,5,namecheap,,,25/09/2026 19:09
 3ed4ba1b-834c-4125-bbe5-8d280ffb3e35,stairs.mx,available,39.99,43.99,high,low,6,namesilo,,,
 5bb6fce6-b4f0-4870-afaa-b0898fcb109d,luminary.mx,available,39.99,43.99,high,low,8,namesilo,,,03/09/2026 22:03
+8d8fa727-b7f8-4976-ba3b-2d8b762107df,consequence.mx,available,30.7,30.7,high,low,11,cloudflare,,,28/09/2026 15:40
 6e6d8b75-c68a-4d98-9d4e-c245a073a8c6,variations.mx,available,26.98,58.98,medium,low,10,namecheap,,,18/09/2026 20:13
 f87d25d1-fa0b-4c38-8db6-e1f5ce4deadb,warped.mx,available,26.98,58.98,medium,low,6,namecheap,,,13/09/2026 08:27
 9ee48cc8-9e8c-4a87-a5c7-97cf5f70f6c1,jared.mx,available,39.99,43.99,high,low,5,namesilo,,,27/09/2026 11:10
@@ -840,6 +903,7 @@ f87d25d1-fa0b-4c38-8db6-e1f5ce4deadb,warped.mx,available,26.98,58.98,medium,low,
 a5cf5c36-488c-4803-ab81-98347730cf5d,hannukah.mx,available,39.99,43.99,medium,low,8,namesilo,,,
 2be5f46b-2e8f-4596-ad76-ec41c4e43334,discursive.mx,available,22.98,58.98,medium,low,10,namecheap,,,14/08/2026 06:00
 14277ff9-7008-4699-9d03-4a04c5baa5c1,sabbatical.mx,available,26.98,58.98,high,low,10,namecheap,,,09/09/2026 20:30
+804fff52-4b9b-4e13-8b99-c8de3087ad66,reflect.mx,available,35.57,41.23,high,low,7,porkbun,,,28/09/2026 10:29
 1c4fe449-af42-4842-ba9b-1b7ab41d9741,spermous.mx,available,26.98,58.98,high,medium,8,namecheap,,,10/09/2026 15:30
 2f3be2c3-ed4c-44c4-b4ba-5d6daa9c9d4d,maturity.mx,available,26.98,58.98,high,low,8,namecheap,,,17/09/2026 10:27
 0e9065fe-dae9-43b8-9c77-87af527d0d82,province.mx,available,39.99,43.99,high,low,8,namesilo,,,
@@ -848,6 +912,7 @@ a5cf5c36-488c-4803-ab81-98347730cf5d,hannukah.mx,available,39.99,43.99,medium,lo
 cbb15b29-e8ab-435d-8cdd-266860416484,exploited.mx,available,26.98,58.98,medium,low,9,namecheap,,,08/09/2026 15:46
 cf982a98-e16e-4b7d-96cd-93f19e8e728b,inspirational.mx,available,39.99,43.99,high,low,13,namesilo,,,
 c3a02801-5036-44bb-8848-60383c793d08,futile.mx,available,39.99,43.99,medium,low,6,namesilo,,,22/09/2026 23:49
+3219f9c4-89c4-480b-b3d9-dbc4507efa77,abducted.mx,available,26.98,58.98,medium,low,8,namecheap,,,29/09/2026 05:02
 413ac7e5-5ab2-41f8-99c8-189cc3a0ef4b,comment.mx,available,39.99,43.99,high,low,7,namesilo,,,24/09/2026 16:29
 8662f53c-8b3d-4ecd-939a-e6e05c530fdb,ironlike.mx,available,26.98,58.98,medium,low,8,namecheap,,,22/08/2026 10:10
 a3724c01-9f52-4894-a89a-11503e9d3f0a,balzac.mx,available,39.99,43.99,medium,low,6,namesilo,,,22/09/2026 00:32
@@ -863,7 +928,7 @@ f18fa686-4cfe-4484-9932-1e4e3d00bc86,annulated.mx,available,22.98,58.98,medium,l
 38e78876-5a95-451d-b258-553847dfa3bf,frightened.mx,available,22.98,58.98,medium,low,10,namecheap,,,18/08/2026 15:37
 aa7ed437-950f-4685-af5b-fed1b365a3ea,chilly.mx,available,22.98,58.98,high,low,6,namecheap,,,12/08/2026 05:30
 7742ef1a-3bf5-4473-a19d-506b16377e1f,ameboid.mx,available,24.98,58.98,medium,low,7,namecheap,,,
-e03d12b3-a926-4c72-a22a-e6728ba8f26e,bean.mx,available,39.99,43.99,high,low,4,namesilo,,,
+e03d12b3-a926-4c72-a22a-e6728ba8f26e,bean.mx,available,26.98,58.98,high,low,4,namecheap,,,29/09/2026 01:40
 abb9d5a9-1d41-4f4e-a223-5b09acd82867,satiated.mx,available,26.98,58.98,medium,low,8,namecheap,,,09/09/2026 21:39
 fa283352-2a2d-4448-943a-0baffa7e676f,wherever.mx,available,39.99,43.99,medium,low,8,namesilo,,,16/09/2026 11:29
 4027f5f6-1a58-45ee-881d-3538e33114d0,wiggly.mx,available,26.98,58.98,medium,low,6,namecheap,,,10/09/2026 08:40
@@ -877,6 +942,7 @@ f7e79994-8225-418c-9e3b-d141afe4fd7a,twelfth.mx,available,24.98,58.98,high,low,7
 d9f4ad44-9e7b-49c9-84bb-5865eef2f315,ototoxic.mx,available,39.99,43.99,medium,low,8,namesilo,,,04/09/2026 18:36
 421e5cef-d781-41ce-8541-50cd3616bf8e,whizz.mx,available,26.98,58.98,high,low,5,namecheap,,,21/09/2026 18:06
 af737e89-6ffe-4970-ac62-f56094159d1e,seattle.mx,available,39.99,43.99,high,low,7,namesilo,,,
+321ce995-fa3e-4c68-afc4-e5b0b8a022d3,immortality.mx,available,39.99,43.99,medium,low,11,namesilo,,,29/09/2026 05:02
 73a841bb-a06d-48d6-81ec-d686969431b6,estate.mx,resell,,,high,low,6,1api GmbH,26/09/2009 00:00,25/09/2027 00:00,26/09/2026 05:53
 02515d22-4f72-4601-8472-f26060358926,hag.mx,available,26.98,58.98,high,low,3,namecheap,,,23/09/2026 04:44
 a308b67e-3031-4d2f-9d0b-711c71cfc93e,snore.mx,available,39.99,43.99,medium,low,5,namesilo,,,
@@ -903,6 +969,7 @@ b9c0c91d-86a7-4650-a64f-fceb90124063,angolan.mx,available,24.98,58.98,high,low,7
 4faf9ab4-c334-44bf-9d4f-d6c4a3357290,olson.mx,available,39.99,43.99,medium,low,5,namesilo,,,27/09/2026 01:46
 ebe648ca-d5c1-4a31-8664-65fd036ff925,veiled.mx,available,26.98,58.98,medium,low,6,namecheap,,,13/09/2026 01:50
 3d46126d-1560-48ee-a931-501076c152ad,bevel.mx,available,39.99,43.99,medium,low,5,namesilo,,,23/09/2026 11:58
+3da2af1b-918d-410a-a19a-4c0326ab2845,kirkpatrick.mx,available,39.99,43.99,medium,low,11,namesilo,,,28/09/2026 12:22
 e77db8c0-74f8-478f-aa48-758301990362,happier.mx,available,26.98,58.98,high,low,7,namecheap,,,18/09/2026 06:17
 7f35cc24-e4cf-4260-910f-455b59f84018,kicking.mx,available,39.99,43.99,high,low,7,namesilo,,,
 2d2ce787-3248-4a6f-9d0e-1b39184281b2,bilocation.mx,available,39.99,43.99,medium,low,10,namesilo,,,23/09/2026 16:51
@@ -920,6 +987,7 @@ c6cd7bd8-0b37-49d0-be4d-9d57b6009d05,willfully.mx,available,26.98,58.98,medium,l
 86231a17-db40-490f-a846-af4e342c5680,hydrous.mx,available,26.98,58.98,medium,low,7,namecheap,,,21/08/2026 16:14
 c8e39195-3cbc-4701-a78d-30966418fbce,splurge.mx,available,39.99,43.99,high,low,7,namesilo,,,23/09/2026 17:20
 67a5d56b-5725-468b-98b2-923879ececfd,scentless.mx,available,26.98,58.98,medium,low,9,namecheap,,,09/09/2026 23:00
+6d27a384-f52d-431a-b393-b99b99ea8ce9,catastrophic.mx,available,39.99,43.99,medium,low,12,namesilo,,,29/09/2026 03:09
 53e63546-5bf6-431e-99c7-297aa7e275e4,signalize.mx,available,26.98,58.98,high,medium,9,namecheap,,,10/09/2026 08:01
 7e41afe5-6cde-4f08-bd31-ba89f4200f24,assiduous.mx,available,22.98,58.98,medium,low,9,namecheap,,,07/08/2026 06:09
 9290d86a-dcdc-454c-bdc4-3ac10d5cedf9,fitfully.mx,available,26.98,58.98,medium,low,8,namecheap,,,14/09/2026 18:43
@@ -927,75 +995,7 @@ c8e39195-3cbc-4701-a78d-30966418fbce,splurge.mx,available,39.99,43.99,high,low,7
 adb1efe8-2bef-4353-9a5c-49411515ead4,spheric.mx,available,22.98,58.98,medium,low,7,namecheap,,,08/08/2026 10:16
 a86f0a86-4023-4511-8db8-2d2bf3dd4b2d,leland.mx,available,36.64,42.52,medium,low,6,dynadot,,,27/09/2026 21:02
 ca8303b7-c7dd-4bfa-a2c9-106d3cb4a5e7,untucked.mx,available,26.98,58.98,low,low,8,namecheap,,,12/09/2026 21:50
+146fca7e-fc43-4a33-a3d8-f875db574868,spaghetti.mx,available,36.64,42.52,high,low,9,dynadot,,,28/09/2026 15:23
 49df0d86-629e-478b-8571-facde3e5801d,monoclonal.mx,available,39.99,43.99,medium,low,10,namesilo,,,19/09/2026 05:27
 58073957-6ce4-4fb8-901b-9b7c8f858086,forthwith.mx,available,26.98,58.98,medium,low,9,namecheap,,,10/09/2026 21:39
 445fa1c2-bff5-469b-aec6-cd5f296f2349,secretive.mx,available,22.98,58.98,medium,low,9,namecheap,,,12/08/2026 12:18
-763662a0-3f6b-4373-acac-d6e28519903d,avionic.mx,available,22.98,58.98,medium,low,7,namecheap,,,07/08/2026 23:35
-8b622f48-de0a-44e3-ba53-384d2866fe5a,amnesty.mx,available,39.99,43.99,high,low,7,namesilo,,,18/09/2026 22:23
-6164c001-6fad-4912-bc96-0258e97f0ad8,borne.mx,available,39.99,43.99,medium,low,5,namesilo,,,
-80cf9d0d-1c33-4990-b3de-5de94456e177,loyalist.mx,available,26.98,58.98,medium,low,8,namecheap,,,10/09/2026 18:31
-0185d813-6173-4029-a182-a9f65075069c,tenths.mx,available,26.98,58.98,medium,low,6,namecheap,,,20/09/2026 23:51
-7f3db6c0-6f43-4e5a-9518-9238b560c21b,fadeout.mx,available,26.98,58.98,medium,low,7,namecheap,,,09/09/2026 11:18
-0eeb856c-aef3-4605-ae1f-d1c355da4bae,acervulus.mx,available,39.99,43.99,medium,low,9,namesilo,,,16/09/2026 23:44
-3360e848-5637-491a-a934-49094057b100,apologise.mx,available,39.99,43.99,high,low,9,namesilo,,,
-a3440b90-3f76-45b4-acca-b769ed177700,tryst.mx,available,39.99,43.99,high,low,5,namesilo,,,20/09/2026 16:22
-73790502-c037-432e-83ec-5fc371dc9317,powdered.mx,available,39.99,43.99,medium,low,8,namesilo,,,19/09/2026 15:51
-6e9286e0-887c-40ee-a33a-a38606e589e3,linnaean.mx,available,26.98,58.98,medium,low,8,namecheap,,,23/08/2026 16:38
-2c84d91c-d0fc-4543-8685-7443c24ce863,chirpy.mx,available,22.98,58.98,high,low,6,namecheap,,,12/08/2026 06:03
-7192ec2b-ab36-44fb-9e3e-2a4c2b797433,sanative.mx,available,24.98,58.98,medium,low,8,namecheap,,,
-a9bcb8b4-c65d-4a3d-8e49-c61c48c442ab,confess.mx,available,39.99,43.99,high,low,7,namesilo,,,
-90f2b7d5-2df9-4223-84a6-c608363c1a10,proud.mx,available,39.99,43.99,high,low,5,namesilo,,,27/09/2026 07:46
-b7bf85ea-35f1-4b7a-ad37-5d002a73b489,carbonated.mx,available,22.98,58.98,medium,low,10,namecheap,,,11/08/2026 18:39
-cbc5cd97-2847-4581-8cad-7e67a9e56fee,bombing.mx,available,39.99,43.99,medium,low,7,namesilo,,,27/09/2026 11:45
-a794cd79-23ce-4900-b7c3-2b492fb1bb39,blackhead.mx,available,39.99,43.99,medium,low,9,namesilo,,,24/09/2026 02:47
-096ca44c-7e83-4f94-8f99-2073ab4df036,mitchell.mx,available,39.99,43.99,high,low,8,namesilo,,,20/09/2026 11:03
-19ddfac7-f25a-47ed-bc29-79fffbc58ec0,sized.mx,available,26.98,58.98,high,low,5,namecheap,,,10/09/2026 09:15
-7578a3d3-9df2-47dc-a20f-03cc74b88a97,anaglyph.mx,available,39.99,43.99,medium,low,8,namesilo,,,19/09/2026 01:21
-55541fbf-c04b-4d6a-b2cd-56bdb15b74f4,disclaimer.mx,available,26.98,58.98,high,low,10,namecheap,,,24/09/2026 22:28
-eff57a55-00c9-4cc8-8bf2-c4a96e7dccbd,abruptly.mx,available,49.99,58.99,medium,low,8,name.com,,,13/08/2026 19:17
-10946584-778c-4bb4-b578-b5c10704d8df,prioritize.mx,available,39.99,43.99,high,low,10,namesilo,,,
-296e676d-a0fb-49af-9d0c-0fb9083400d6,flaxseed.mx,available,39.99,43.99,high,low,9,namesilo,,,16/09/2026 10:28
-41213b55-ec9d-4aab-840e-585cd238ee02,complaints.mx,available,39.99,43.99,medium,low,10,namesilo,,,18/09/2026 03:41
-c03cad09-5285-4235-8526-d4f957f6c01f,ferric.mx,available,22.98,58.98,medium,low,6,namecheap,,,18/08/2026 02:07
-19a28c5b-947c-4d3a-9101-6d287f7cb9ac,decade.mx,available,39.99,43.99,high,low,6,namesilo,,,21/09/2026 10:56
-0e808d62-5181-482b-a1a1-5a507d517991,primer.mx,resell,,,high,low,6,1api GmbH,28/09/2009 00:00,27/09/2027 00:00,26/09/2026 08:19
-7dd579d0-6759-4336-a19a-ea55d17381bc,incestuous.mx,available,26.98,58.98,medium,low,10,namecheap,,,22/08/2026 01:12
-6ba0bbf7-126a-4fdf-bdad-edee4f9701ce,nicely.mx,available,26.98,58.98,high,low,6,namecheap,,,15/09/2026 16:32
-2a52305a-f54e-427f-957d-b675173ee16e,losing.mx,available,39.99,43.99,high,low,6,namesilo,,,25/09/2026 11:49
-0fa1edbe-a781-4ff6-86a0-084953572392,incidence.mx,available,39.99,43.99,high,low,9,namesilo,,,
-7f8b6144-cb33-4e59-8cdd-f07fdd05bb63,expose.mx,available,39.99,43.99,high,low,6,namesilo,,,
-f8853b60-85b6-46ce-b9a4-7f66d64f38ab,mealy.mx,available,22.98,58.98,low,low,5,namecheap,,,12/08/2026 14:05
-702b7ea0-ed57-4016-b3c0-d7399336b2dc,avoid.mx,available,26.98,58.98,high,low,5,namecheap,,,13/09/2026 06:44
-d45fb15f-740e-44b0-94e1-45a95bef9dd4,inka.mx,available,26.98,58.98,medium,low,4,namecheap,,,22/08/2026 00:48
-52207b4e-37db-41e0-874b-1dbf5ac48a91,abdication.mx,available,39.99,43.99,medium,low,10,namesilo,,,16/09/2026 14:43
-a5c764a1-2cd8-4104-ac73-722fdb45af63,prow.mx,available,22.98,58.98,medium,low,4,namecheap,,,18/08/2026 11:28
-1f904aec-4f34-4b18-ba12-306f70d351e3,sabine.mx,available,26.98,58.98,high,medium,6,namecheap,,,09/09/2026 20:34
-b20fbcde-732f-4df9-9272-378827a51c40,jawless.mx,available,26.98,58.98,medium,low,7,namecheap,,,22/08/2026 12:34
-3e251129-065b-4087-9a59-92734c4521bc,deserve.mx,available,39.99,43.99,high,low,7,namesilo,,,25/09/2026 23:40
-cc1aee60-53f0-413f-9c7d-3f43727d3ba3,decisions.mx,available,26.98,58.98,medium,low,9,namecheap,,,25/09/2026 21:16
-33c6336a-8587-43a2-8d4f-888e75a7e995,weinstein.mx,available,39.99,43.99,high,low,9,namesilo,,,28/09/2026 07:31
-a1ef10bd-219a-4ae3-a9c7-6e3101ec95b1,pinch.mx,available,39.99,43.99,high,low,5,namesilo,,,
-47c19be5-48e0-41cf-b810-0738f729b39a,sword.mx,available,39.99,43.99,high,low,5,namesilo,,,25/09/2026 10:46
-0aff728d-f642-470f-9b62-28fb1072a75b,corny.mx,available,39.99,43.99,medium,low,5,namesilo,,,23/09/2026 23:25
-e57cc19e-d2b1-4024-91f1-3087ea8c9c1c,injury.mx,available,26.98,58.98,high,low,6,namecheap,,,25/09/2026 06:58
-6a3e3aec-b052-47f1-9d34-0bc5a62afe18,cacophonic.mx,available,22.98,58.98,low,low,10,namecheap,,,11/08/2026 12:33
-3feebfa3-7f70-43c0-b715-4523db632966,continuing.mx,available,39.99,43.99,high,low,10,namesilo,,,23/09/2026 22:17
-1511e42e-6dc2-4168-96c7-8b258abb7146,hadean.mx,available,26.98,58.98,medium,low,6,namecheap,,,20/08/2026 21:32
-b1a7953a-5038-4464-aa54-bf7eb32d4190,gripping.mx,available,39.99,43.99,high,low,8,namesilo,,,21/09/2026 15:05
-2b31f354-3959-4c14-a387-2dcc676b5c78,fortified.mx,available,22.98,58.98,high,low,9,namecheap,,,09/08/2026 00:17
-f8edaebc-8e76-44c1-bfeb-95d04f4b0a4a,tenormin.mx,available,26.98,58.98,low,low,8,namecheap,,,20/09/2026 20:11
-66a2ae8d-6540-4108-9b59-dfdb9772ebcd,briton.mx,available,22.98,58.98,high,low,6,namecheap,,,11/08/2026 04:48
-61ef0a48-3c06-48f6-bbe8-6992c6908592,bonnie.mx,available,22.98,58.98,high,low,6,namecheap,,,10/08/2026 18:47
-ebaaf1f7-0ad4-41e5-9078-099323f2a8b6,shots.mx,available,39.99,43.99,medium,low,5,namesilo,,,20/09/2026 00:10
-5fff4a0b-1b77-4190-a387-31e89005a51c,nitid.mx,available,24.98,58.98,medium,low,5,namecheap,,,
-5d9cbcf4-e704-401a-8615-d807bab9512c,dolt.mx,available,26.98,58.98,medium,low,4,namecheap,,,10/09/2026 23:09
-92271b30-8b13-4e1f-ba81-ca1e635a1873,xcvi.mx,available,24.98,58.98,medium,low,4,namecheap,,,
-f0344bd6-f7d4-414c-b024-12516da8c34a,alters.mx,available,39.99,43.99,medium,low,6,namesilo,,,20/09/2026 13:23
-4ea6c4c5-9862-4e24-b942-05476956897b,plenary.mx,available,26.98,58.98,medium,low,7,namecheap,,,08/09/2026 21:06
-91861774-34dc-4b2b-a47f-2e1df036cbf7,gingerly.mx,available,22.98,58.98,medium,low,8,namecheap,,,18/08/2026 23:55
-af024a29-fb4c-4546-bb08-48462f9c1439,precious.mx,resell,,,high,low,8,GoDaddy.com,02/04/2013 00:00,02/04/2030 00:00,26/09/2026 08:17
-3603584e-f081-4272-889a-34948ee38054,intestate.mx,available,26.98,58.98,medium,low,9,namecheap,,,22/08/2026 08:24
-a317aff7-ffde-4994-a428-f132f4339095,steadying.mx,available,26.98,58.98,medium,low,9,namecheap,,,10/09/2026 19:39
-1f07e948-c209-414c-9af2-a91f34bc0c0f,psychology.mx,available,39.99,43.99,high,low,10,namesilo,,,
-323dec86-5cd4-40c3-aae4-f6f7eae4a28c,plebeian.mx,available,26.98,58.98,medium,low,8,namecheap,,,08/09/2026 21:00
-9355cd10-7f55-4bd9-82da-e2fee4ffa494,barreled.mx,available,22.98,58.98,medium,low,8,namecheap,,,08/08/2026 20:46
